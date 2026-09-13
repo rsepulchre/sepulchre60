@@ -1,0 +1,131 @@
+{
+  "portraitSource": "https://www.esat.kuleuven.be/inaugurals/prof-rodolphe-sepulchre",
+  "musicUrl": "https://doi.org/10.1109/MCS.2022.3187354",
+  "pillars": [
+    {
+      "title": "Making nonlinear ideas constructive",
+      "text": "Geometry and analysis become practical feedback designs, with passivity and Lyapunov methods connecting stability, robustness and optimality.",
+      "url": "https://link.springer.com/book/10.1007/978-1-4471-0967-9"
+    },
+    {
+      "title": "Geometry as a language for algorithms",
+      "text": "Respecting the shape of a search space leads to useful numerical methods, and links mathematical structure with computation.",
+      "url": "https://sites.uclouvain.be/absil/amsbook/"
+    },
+    {
+      "title": "Coordination without a conductor",
+      "text": "Relative information and coupling organize collective motion. Synchronization, balancing and geometric consensus supply a precise intellectual basis for the musical idea of an ensemble.",
+      "url": "https://doi.org/10.1109/TAC.2007.898077"
+    },
+    {
+      "title": "Finding simple structure in complex dynamics",
+      "text": "Differential methods extend tools familiar from linear control to nonlinear systems. Dominance makes low-dimensional long-term behaviour accessible to an interconnection theory.",
+      "url": "https://arxiv.org/abs/1710.01721"
+    },
+    {
+      "title": "Sensitivity and robustness across scales",
+      "text": "Positive and negative feedback work together. Cellular regulation shapes circuit behaviour, while switching and tuning can remain distinct design functions.",
+      "url": "https://doi.org/10.1146/annurev-control-053018-023708"
+    },
+    {
+      "title": "Rhythm as an open system",
+      "text": "Repeated events become useful through adaptation to the environment. Spiking links continuous physical dynamics with reliable event timing, extending feedback questions into new forms of computation and control.",
+      "url": "https://arxiv.org/abs/2112.03565"
+    }
+  ],
+  "readings": [
+    {
+      "title": "Constructive Nonlinear Control",
+      "authors": "R. Sepulchre, M. Janković, P. V. Kokotović",
+      "year": 1997,
+      "url": "https://link.springer.com/book/10.1007/978-1-4471-0967-9",
+      "note": "Geometry and analysis become practical feedback designs, with passivity and Lyapunov methods connecting stability, robustness and optimality."
+    },
+    {
+      "title": "Stabilization of Planar Collective Motion: All-to-All Communication",
+      "authors": "R. Sepulchre, D. A. Paley, N. E. Leonard",
+      "year": 2007,
+      "url": "https://doi.org/10.1109/TAC.2007.898077",
+      "note": "Relative information and coupling organize collective motion. Synchronization, balancing and geometric consensus supply a precise intellectual basis for the musical idea of an ensemble."
+    },
+    {
+      "title": "Optimization Algorithms on Matrix Manifolds",
+      "authors": "P.-A. Absil, R. Mahony, R. Sepulchre",
+      "year": 2008,
+      "url": "https://sites.uclouvain.be/absil/amsbook/",
+      "note": "Respecting the shape of a search space leads to useful numerical methods, and links mathematical structure with computation."
+    },
+    {
+      "title": "Differential dissipativity theory for dominance analysis",
+      "authors": "F. Forni, R. Sepulchre",
+      "year": 2019,
+      "url": "https://arxiv.org/abs/1710.01721",
+      "note": "Differential methods extend tools familiar from linear control to nonlinear systems. Dominance makes low-dimensional long-term behaviour accessible to an interconnection theory."
+    },
+    {
+      "title": "Control Across Scales by Positive and Negative Feedback",
+      "authors": "R. Sepulchre, G. Drion, A. Franci",
+      "year": 2019,
+      "url": "https://doi.org/10.1146/annurev-control-053018-023708",
+      "note": "Positive and negative feedback work together. Cellular regulation shapes circuit behaviour, while switching and tuning can remain distinct design functions."
+    },
+    {
+      "title": "Cellular switches orchestrate rhythmic circuits",
+      "authors": "Guillaume Drion, Alessio Franci & Rodolphe Sepulchre",
+      "year": 2019,
+      "url": "https://arxiv.org/abs/1802.06700",
+      "note": "How cellular switching properties support adaptable circuit rhythms. Journal publication 2019; first online in 2018."
+    },
+    {
+      "title": "Join the Conversation",
+      "authors": "R. Sepulchre",
+      "year": 2020,
+      "url": "https://doi.org/10.1109/MCS.2019.2950477",
+      "note": "The intellectual legacy includes how ideas travel: exposition, teaching, encounters with other scientific cultures, and sharing the process by which a research question becomes one's own."
+    },
+    {
+      "title": "Spiking Control Systems",
+      "authors": "R. Sepulchre",
+      "year": 2022,
+      "url": "https://arxiv.org/abs/2112.03565",
+      "note": "Repeated events become useful through adaptation to the environment. Spiking links continuous physical dynamics with reliable event timing, extending feedback questions into new forms of computation and control."
+    },
+    {
+      "title": "Clocks and Rhythms",
+      "authors": "Rodolphe Sepulchre · IEEE Control Systems editorial",
+      "year": 2022,
+      "url": "https://doi.org/10.1109/MCS.2022.3187354",
+      "note": "An explicit connection between music, modulation and rhythmic systems that respond to their environment."
+    },
+    {
+      "title": "Spiking control systems for soft robotics: a rhythmic case study in a soft robotic crawler",
+      "authors": "Juncal Arbelaiz, Alessio Franci, Naomi Ehrich Leonard, Rodolphe Sepulchre & Bassam Bamieh",
+      "year": 2025,
+      "url": "https://arxiv.org/abs/2509.02968",
+      "note": "A recent meeting point of spiking control, embodied robotics and rhythmic coordination. Preprint first submitted in 2025."
+    }
+  ],
+  "talks": [
+    {
+      "title": "Control theory of switches and clocks",
+      "year": 2018,
+      "format": "ECC plenary · slides",
+      "url": "https://www.dropbox.com/scl/fi/sngy9bd7zzvqn6w2ue2ln/ECC2018_4pages.pdf?rlkey=38xvfzuji36on1ht167m3x0q1&dl=0",
+      "note": "Contraction, dominance and mixed feedback as tools for nonlinear behaviour."
+    },
+    {
+      "title": "Control across scales, by positive and negative feedback",
+      "year": 2018,
+      "format": "CDC semi-plenary · slides",
+      "url": "https://www.dropbox.com/scl/fi/fjl5atqb1yjtioi4uhkf2/CDC2018final_4pages.pdf?rlkey=lvfnselnsceckcgxo76mksxx2&dl=0",
+      "note": "A lecture linking cellular dynamics, neuronal circuits and feedback design."
+    },
+    {
+      "title": "Spikes, control and decision-making",
+      "year": 2026,
+      "format": "Brains and Machines · interview",
+      "url": "https://brainsandmachines.net/rodolphe-sepulchre/",
+      "note": "A conversation with Rodolphe about neuromorphic systems and the connection between control and computation."
+    }
+  ]
+}

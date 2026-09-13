@@ -1,0 +1,1521 @@
+{
+  "title": "Rodolphe Sepulchre’s postdoctoral and intellectual ancestry",
+  "verified_on": "2026-09-13",
+  "status": "complete_selected_MGP_path_with_historical_uncertainty",
+  "edge_direction": "ancestor/advisor to descendant/student",
+  "nodes": [
+    {
+      "id": "103842",
+      "mgp_id": 103842,
+      "name": "Rodolphe J. Sepulchre",
+      "display_name": "Rodolphe Sepulchre",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=103842",
+      "display_subtitle": "Postdoctoral researcher · UCSB · 1994–1996",
+      "field": "control",
+      "record_type": "modern",
+      "record_as_mgp": "Rodolphe J. Sepulchre MathSciNet Ph.D. Université Catholique de Louvain 1994 Dissertation: Contributions to nonlinear control systems analysis by means of the direct method of Liapunov Mathematics Subject Classification: 93—Systems theory; control Advisor 1: Dirk Aeyels",
+      "local_evidence": "103842.html",
+      "record_note": "The MGP record concerns his Louvain Ph.D.; the postdoctoral edge on this panel is separately documented in the book preface."
+    },
+    {
+      "id": "4785",
+      "mgp_id": 4785,
+      "name": "Petar V. Kokotovic",
+      "display_name": "Petar Kokotović",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=4785",
+      "display_subtitle": "Postdoctoral mentor · UCSB",
+      "field": "control",
+      "record_type": "modern",
+      "record_as_mgp": "Petar V. Kokotovic MathSciNet Ph.D. Russian Academy of Sciences 1965 Dissertation: Mathematics Subject Classification: 93—Systems theory; control Advisor 1: Yakov Zalmanovich Tsypkin Advisor 2: Alexander Feldbaum",
+      "local_evidence": "4785.html"
+    },
+    {
+      "id": "49257",
+      "mgp_id": 49257,
+      "name": "Alexander Feldbaum",
+      "display_name": "Alexander Feldbaum",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=49257",
+      "display_subtitle": "Doktor nauk · 1949",
+      "field": "control",
+      "record_type": "modern",
+      "record_as_mgp": "Alexander Feldbaum MathSciNet Doktor nauk All-Russian Scientific Research Institute of Automation (VNIIA) 1949 Dissertation: Fundamental characteristics of the performance of automatic control systems Mathematics Subject Classification: 93—Systems theory; control Advisor 1: Aleksandr Aleksandrovich Andronov",
+      "local_evidence": "49257.html"
+    },
+    {
+      "id": "118323",
+      "mgp_id": 118323,
+      "name": "Aleksandr Aleksandrovich Andronov",
+      "display_name": "Aleksandr Andronov",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=118323",
+      "display_subtitle": "Ph.D. · Moscow · 1929",
+      "field": "control",
+      "record_type": "modern",
+      "record_as_mgp": "Aleksandr Aleksandrovich Andronov MathSciNet Ph.D. Lomonosov Moscow State University 1929 Dissertation: Mathematics Subject Classification: 34—Ordinary differential equations Advisor: Leonid Isaakovich Mandelstam",
+      "local_evidence": "118323.html"
+    },
+    {
+      "id": "61599",
+      "mgp_id": 61599,
+      "name": "Leonid Isaakovich Mandelstam",
+      "display_name": "Leonid Mandelstam",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=61599",
+      "display_subtitle": "Dr. phil. · Strasbourg · 1901",
+      "field": "physics",
+      "record_type": "modern",
+      "record_as_mgp": "Leonid Isaakovich Mandelstam Dr. phil. Universität Straßburg 1901 Dissertation: Bestimmung der Schwingungsdauer der oscillatorischen Condensatoren-Entladung Advisor: K. Ferdinand (Karl) Braun",
+      "local_evidence": "61599.html"
+    },
+    {
+      "id": "124194",
+      "mgp_id": 124194,
+      "name": "K. Ferdinand (Karl) Braun",
+      "display_name": "Karl Ferdinand Braun",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=124194",
+      "display_subtitle": "Dr. phil. · Berlin · 1872",
+      "field": "physics",
+      "record_type": "modern",
+      "record_as_mgp": "K. Ferdinand (Karl) Braun Dr. phil. Universität Berlin 1872 Dissertation: Über den Einfluß von Steifigkeit, Befestigung und Amplitude auf die Schwingungen von Saiten Mathematics Subject Classification: 74—Mechanics of deformable solids Advisor: Georg Hermann Quincke",
+      "local_evidence": "124194.html"
+    },
+    {
+      "id": "124283",
+      "mgp_id": 124283,
+      "name": "Georg Hermann Quincke",
+      "display_name": "Georg Hermann Quincke",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=124283",
+      "display_subtitle": "Dr. phil. · Berlin · 1858",
+      "field": "physics",
+      "record_type": "modern",
+      "record_as_mgp": "Georg Hermann Quincke Dr. phil. Universität Berlin 1858 Dissertation: De constantibus mercurii capillaribus Advisor 1: Heinrich Gustav Magnus Advisor 2: Franz Ernst Neumann",
+      "local_evidence": "124283.html"
+    },
+    {
+      "id": "123978",
+      "mgp_id": 123978,
+      "name": "Heinrich Gustav Magnus",
+      "display_name": "Heinrich Gustav Magnus",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=123978",
+      "display_subtitle": "Philosophiae Dr. · Berlin · 1827",
+      "field": "physics",
+      "record_type": "modern",
+      "record_as_mgp": "Heinrich Gustav Magnus Philosophiae Dr. Universität Berlin 1827 Dissertation: De tellurio Advisor: Eilhard Mitscherlich",
+      "local_evidence": "123978.html"
+    },
+    {
+      "id": "123999",
+      "mgp_id": 123999,
+      "name": "Eilhard Mitscherlich",
+      "display_name": "Eilhard Mitscherlich",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=123999",
+      "display_subtitle": "Chemistry · recorded adviser link",
+      "field": "chemistry",
+      "record_type": "modern",
+      "record_as_mgp": "Eilhard Mitscherlich Lit. hum. Dr. Georg-August-Universität Göttingen 1814 Dissertation: Mirchondi historia Thaheridarum historicis nostris hucusque incognitorum Persiae principum Mathematics Subject Classification: 01—History and biography Advisor: Friedrich Stromeyer",
+      "local_evidence": "123999.html",
+      "record_note": "MGP pairs a Lit. hum. Dr., Göttingen 1814, and a Persian-history dissertation with Stromeyer as adviser. This panel labels their link recorded academic mentorship, not verified supervision of that literary doctorate."
+    },
+    {
+      "id": "123979",
+      "mgp_id": 123979,
+      "name": "Friedrich Stromeyer",
+      "display_name": "Friedrich Stromeyer",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=123979",
+      "display_subtitle": "Philosophiae Dr. · Göttingen · 1800",
+      "field": "chemistry",
+      "record_type": "modern",
+      "record_as_mgp": "Friedrich Stromeyer Philosophiae Dr. Georg-August-Universität Göttingen 1800 Dissertation: Commentatio inauguralis sistens historiae vegetabilium geographicae specimen Mathematics Subject Classification: 92—Biology and other natural sciences Advisor: Johann Friedrich Gmelin Advisor 2: Georg Christoph Lichtenberg",
+      "local_evidence": "123979.html"
+    },
+    {
+      "id": "76485",
+      "mgp_id": 76485,
+      "name": "Johann Friedrich Gmelin",
+      "display_name": "Johann Friedrich Gmelin",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=76485",
+      "display_subtitle": "M.D. · Tübingen · 1768",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Johann Friedrich Gmelin M.D. Eberhard-Karls-Universität Tübingen 1768 Dissertation: Irritabilitatem vegetabilium, in singulis plantarum partibus exploratam ulterioribusque experimentis confirmatam Mathematics Subject Classification: 92—Biology and other natural sciences Advisor 1: Phillip Friedrich Gmelin Advisor 2: Ferdinand Christoph Oetinger",
+      "local_evidence": "76485.html"
+    },
+    {
+      "id": "76484",
+      "mgp_id": 76484,
+      "name": "Phillip Friedrich Gmelin",
+      "display_name": "Philipp Friedrich Gmelin",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=76484",
+      "display_subtitle": "M.D. · Tübingen · 1742",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Phillip Friedrich Gmelin M.D. Eberhard-Karls-Universität Tübingen 1742 Dissertation: De hypopyo: dem Eyter-Aug, gravi ac intricato affectu oculi Mathematics Subject Classification: 92—Biology and other natural sciences Advisor: Burchard David Mauchart",
+      "local_evidence": "76484.html"
+    },
+    {
+      "id": "76483",
+      "mgp_id": 76483,
+      "name": "Burchard David Mauchart",
+      "display_name": "Burchard David Mauchart",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=76483",
+      "display_subtitle": "Medicine · Tübingen · 1722",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Burchard David Mauchart Medicinae Dr. Eberhard-Karls-Universität Tübingen 1722 Dissertation: Hernia incarcerata solerti delineatione illustrata novaque extricata encheiresi Mathematics Subject Classification: 92—Biology and other natural sciences Advisor: Elias Rudolph Camerarius, Jr.",
+      "local_evidence": "76483.html"
+    },
+    {
+      "id": "76482",
+      "mgp_id": 76482,
+      "name": "Elias Rudolph Camerarius, Jr.",
+      "display_name": "Elias Rudolph Camerarius Jr.",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=76482",
+      "display_subtitle": "Medicinae Dr. · Tübingen · 1691",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Elias Rudolph Camerarius, Jr. Medicinae Dr. Eberhard-Karls-Universität Tübingen 1691 Dissertation: Inaugurale tentamen de subsidiis pro arte medica ab antlia pneumatica petendis Mathematics Subject Classification: 92—Biology and other natural sciences Advisor: Elias Rudolph Camerarius, Sr.",
+      "local_evidence": "76482.html"
+    },
+    {
+      "id": "76481",
+      "mgp_id": 76481,
+      "name": "Elias Rudolph Camerarius, Sr.",
+      "display_name": "Elias Rudolph Camerarius Sr.",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=76481",
+      "display_subtitle": "Medicinae Dr. · Tübingen · 1663",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Elias Rudolph Camerarius, Sr. Medicinae Dr. Eberhard-Karls-Universität Tübingen 1663 Dissertation: Dissertatio medica inauguralis de acidulis Mathematics Subject Classification: 92—Biology and other natural sciences Advisor: Georg Balthasar Metzger",
+      "local_evidence": "76481.html"
+    },
+    {
+      "id": "123974",
+      "mgp_id": 123974,
+      "name": "Georg Balthasar Metzger",
+      "display_name": "Georg Balthasar Metzger",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=123974",
+      "display_subtitle": "Medicinae Dr. · Basel · 1650",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Georg Balthasar Metzger Magister Artium Friedrich-Schiller-Universität Jena 1646 Dissertation: Suppressionem mensium Mathematics Subject Classification: 92—Biology and other natural sciences Advisor 1: Gottfried Möbius Medicinae Doctor Universität Basel 1650 Dissertation: Disputatio medica inauguralis de catarrho suffocativo Mathematics Subject Classification: 92—Biology and other natural sciences Advisor 1: Johann Jakob von Brunn",
+      "local_evidence": "123974.html"
+    },
+    {
+      "id": "182088",
+      "mgp_id": 182088,
+      "name": "Johann Jakob von Brunn",
+      "display_name": "Johann Jakob von Brunn",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=182088",
+      "display_subtitle": "Medicinae Dr. · Basel · 1615",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Johann Jakob von Brunn Medicinae Dr. Universität Basel 1615 Dissertation: Disputatio medica Mathematics Subject Classification: 92—Biology and other natural sciences Advisor 1: Johannes Nicolaus Stupanus",
+      "local_evidence": "182088.html"
+    },
+    {
+      "id": "125048",
+      "mgp_id": 125048,
+      "name": "Johannes Nicolaus Stupanus",
+      "display_name": "Johannes Nicolaus Stupanus",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=125048",
+      "display_subtitle": "Medicinae Dr. · Basel · 1569",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Johannes Nicolaus Stupanus Medicinae Dr. Universität Basel 1569 Dissertation: Mathematics Subject Classification: 92—Biology and other natural sciences Advisor: Theodor Zwinger",
+      "local_evidence": "125048.html"
+    },
+    {
+      "id": "125148",
+      "mgp_id": 125148,
+      "name": "Theodor Zwinger",
+      "display_name": "Theodor Zwinger",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=125148",
+      "display_subtitle": "Medicinae Dr. · Padua · 1559",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Theodor Zwinger Magister artium Collège de France 1553 Dissertation: Advisor 1: Petrus (Pierre de La Ramée) Ramus Medicinae Dr. Università degli Studi di Padova 1559 Dissertation: Mathematics Subject Classification: 92—Biology and other natural sciences Advisor 1: Bassiano Landi Advisor 2: Vittore Trincavelli",
+      "local_evidence": "125148.html"
+    },
+    {
+      "id": "152906",
+      "mgp_id": 152906,
+      "name": "Bassiano Landi",
+      "display_name": "Bassiano Landi",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=152906",
+      "display_subtitle": "Medicinae Dr. · Padua · 1542",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Bassiano Landi Medicinae Dr. Università degli Studi di Padova 1542 Dissertation: Mathematics Subject Classification: 92—Biology and other natural sciences Advisor 1: Giovanni Battista della Monte Advisor 2: Vittore Trincavelli",
+      "local_evidence": "152906.html"
+    },
+    {
+      "id": "152904",
+      "mgp_id": 152904,
+      "name": "Giovanni Battista della Monte",
+      "display_name": "Giovanni Battista della Monte",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=152904",
+      "display_subtitle": "Medicine · Ferrara",
+      "field": "medicine",
+      "record_type": "medical",
+      "record_as_mgp": "Giovanni Battista della Monte Medicinae Dr. Università degli Studi di Ferrara Dissertation: Advisor 1: Niccolò Leoniceno Magister artium Università degli Studi di Padova 1520 Dissertation: Advisor 1: Marco Musuro Advisor 2: Pietro Pomponazzi",
+      "local_evidence": "152904.html"
+    },
+    {
+      "id": "127166",
+      "mgp_id": 127166,
+      "name": "Niccolò Leoniceno",
+      "display_name": "Niccolò Leoniceno",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=127166",
+      "display_subtitle": "Medicine & classical learning",
+      "field": "medicine",
+      "record_type": "historical",
+      "record_as_mgp": "Niccolò Leoniceno B.A. Scuola Pubblica di Vicenza 1446 Dissertation: Mathematics Subject Classification: 00—General Advisor: Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo Medicinae Dr. Università degli Studi di Padova 1453 Dissertation: Mathematics Subject Classification: 92—Biology and other natural sciences Advisor 1: Pelope Advisor 2: Pietro Roccabonella",
+      "local_evidence": "127166.html",
+      "record_note": "MGP gives Bonisoli for the B.A./school record (1446), while Pelope and Pietro Roccabonella belong to the separate medical degree record (1453). The selected path follows the earlier teacher."
+    },
+    {
+      "id": "149192",
+      "mgp_id": 149192,
+      "name": "Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo",
+      "display_name": "Ognibene Bonisoli da Lonigo",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=149192",
+      "display_subtitle": "Recorded teacher · humanism",
+      "field": "humanism",
+      "record_type": "historical",
+      "record_as_mgp": "Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo Università di Mantova 1433 Dissertation: Advisor 1: Vittorino da Feltre",
+      "local_evidence": "149192.html"
+    },
+    {
+      "id": "134873",
+      "mgp_id": 134873,
+      "name": "Vittorino da Feltre",
+      "display_name": "Vittorino da Feltre",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=134873",
+      "display_subtitle": "Recorded teacher · humanism",
+      "field": "humanism",
+      "record_type": "historical",
+      "record_as_mgp": "Vittorino da Feltre Università degli Studi di Padova 1416 Dissertation: Advisor: Gasparino da Barzizza Advisor 2: Giovanni Conversini Advisor 3: Guarino da Verona",
+      "local_evidence": "134873.html"
+    },
+    {
+      "id": "134931",
+      "mgp_id": 134931,
+      "name": "Guarino da Verona",
+      "display_name": "Guarino da Verona",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=134931",
+      "display_subtitle": "Recorded teacher · humanism",
+      "field": "humanism",
+      "record_type": "historical",
+      "record_as_mgp": "Guarino da Verona Imperial University of Constantinople 1408 Dissertation: Advisor: Manuel Chrysoloras Advisor 2: Giovanni Conversini",
+      "local_evidence": "134931.html"
+    },
+    {
+      "id": "135185",
+      "mgp_id": 135185,
+      "name": "Manuel Chrysoloras",
+      "display_name": "Manuel Chrysoloras",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=135185",
+      "display_subtitle": "Recorded teacher · Greek learning",
+      "field": "humanism",
+      "record_type": "historical",
+      "record_as_mgp": "Manuel Chrysoloras Dissertation: Advisor: Demetrios Kydones",
+      "local_evidence": "135185.html"
+    },
+    {
+      "id": "134780",
+      "mgp_id": 134780,
+      "name": "Demetrios Kydones",
+      "display_name": "Demetrios Kydones",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=134780",
+      "display_subtitle": "Recorded teacher · Byzantine scholarship",
+      "field": "philosophy",
+      "record_type": "historical",
+      "record_as_mgp": "Demetrios Kydones Dissertation: Advisor 1: Nilos Kabasilas",
+      "local_evidence": "134780.html"
+    },
+    {
+      "id": "146365",
+      "mgp_id": 146365,
+      "name": "Nilos Kabasilas",
+      "display_name": "Nilos Kabasilas",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=146365",
+      "display_subtitle": "Recorded teacher · Byzantine theology",
+      "field": "philosophy",
+      "record_type": "historical",
+      "record_as_mgp": "Nilos Kabasilas 1363 Dissertation: Advisor 1: Gregory Palamas",
+      "local_evidence": "146365.html"
+    },
+    {
+      "id": "176844",
+      "mgp_id": 176844,
+      "name": "Gregory Palamas",
+      "display_name": "Gregory Palamas",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=176844",
+      "display_subtitle": "Recorded teacher/influence · Byzantine theology",
+      "field": "philosophy",
+      "record_type": "historical",
+      "record_as_mgp": "Gregory Palamas Imperial University of Constantinople 1316 Dissertation: Advisor 1: Theodore Metochites",
+      "local_evidence": "176844.html"
+    },
+    {
+      "id": "184631",
+      "mgp_id": 184631,
+      "name": "Theodore Metochites",
+      "display_name": "Theodore Metochites",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=184631",
+      "display_subtitle": "Recorded teacher · astronomy",
+      "field": "astronomy",
+      "record_type": "historical",
+      "record_as_mgp": "Theodore Metochites Imperial University of Constantinople 1315 Dissertation: Mathematics Subject Classification: 00—General Advisor 1: Manuel Bryennios",
+      "local_evidence": "184631.html"
+    },
+    {
+      "id": "184632",
+      "mgp_id": 184632,
+      "name": "Manuel Bryennios",
+      "display_name": "Manuel Bryennios",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=184632",
+      "display_subtitle": "Recorded teacher · astronomy",
+      "field": "astronomy",
+      "record_type": "historical",
+      "record_as_mgp": "Manuel Bryennios Imperial University of Constantinople 1300 Dissertation: Advisor 1: Gregory Chioniadis",
+      "local_evidence": "184632.html"
+    },
+    {
+      "id": "201288",
+      "mgp_id": 201288,
+      "name": "Gregory Chioniadis",
+      "display_name": "Gregory Chioniades",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=201288",
+      "display_subtitle": "Physician & astronomer · c. 1300",
+      "field": "medicine_astronomy",
+      "record_type": "historical",
+      "record_as_mgp": "Gregory Chioniadis Ilkhans Court at Tabriz 1296 Dissertation: Mathematics Subject Classification: 85—Astronomy and astrophysics Advisor 1: Shams al‐Dīn al‐Bukhārī",
+      "local_evidence": "201288.html"
+    },
+    {
+      "id": "204293",
+      "mgp_id": 204293,
+      "name": "Shams al‐Dīn al‐Bukhārī",
+      "display_name": "Shams al-Dīn al-Bukhārī",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=204293",
+      "display_subtitle": "Recorded teacher · astronomy",
+      "field": "astronomy",
+      "record_type": "historical",
+      "record_as_mgp": "Shams al‐Dīn al‐Bukhārī Maragheh Observatory Dissertation: Mathematics Subject Classification: 85—Astronomy and astrophysics Advisor 1: Nasir al-Dīn al-Ṭūsī",
+      "local_evidence": "204293.html"
+    },
+    {
+      "id": "217509",
+      "mgp_id": 217509,
+      "name": "Nasir al-Dīn al-Ṭūsī",
+      "display_name": "Nasir al-Dīn al-Ṭūsī",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=217509",
+      "display_subtitle": "Recorded teacher · astronomy & philosophy",
+      "field": "astronomy",
+      "record_type": "historical",
+      "record_as_mgp": "Nasir al-Dīn al-Ṭūsī Biography Dissertation: Advisor 1: Kamāl al-Dīn Ibn Yūnus Advisor 2: Athīr al-Dīn al-Mufaḍḍal al-Abharī",
+      "local_evidence": "217509.html"
+    },
+    {
+      "id": "223724",
+      "mgp_id": 223724,
+      "name": "Kamāl al-Dīn Ibn Yūnus",
+      "display_name": "Kamal al-Din Ibn Yunus",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=223724",
+      "display_subtitle": "Recorded teacher · mathematics",
+      "field": "mathematics",
+      "record_type": "historical",
+      "record_as_mgp": "Kamāl al-Dīn Ibn Yūnus Biography Dissertation: Advisor 1: Sharaf al-Dīn al-Ṭūsī Advisor 2: Saraf al-Dīn Muhammad al-Masʿūdī al-Marwazī",
+      "local_evidence": "223724.html"
+    },
+    {
+      "id": "287466",
+      "mgp_id": 287466,
+      "name": "Saraf al-Dīn Muhammad al-Masʿūdī al-Marwazī",
+      "display_name": "Sharaf al-Din al-Masudi al-Marwazi",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=287466",
+      "display_subtitle": "Recorded teacher · philosophy",
+      "field": "philosophy",
+      "record_type": "historical",
+      "record_as_mgp": "Saraf al-Dīn Muhammad al-Masʿūdī al-Marwazī Polymath Dissertation: Mathematics Subject Classification: 85—Astronomy and astrophysics Advisor 1: Ghiyāth al-Dīn Abū al-Fatḥ ʿUmar ibn Ibrāhīm al-Khayyām al-Nīsābūrī",
+      "local_evidence": "287466.html"
+    },
+    {
+      "id": "295739",
+      "mgp_id": 295739,
+      "name": "Ghiyāth al-Dīn Abū al-Fatḥ ʿUmar ibn Ibrāhīm al-Khayyām al-Nīsābūrī",
+      "display_name": "Omar Khayyam",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=295739",
+      "display_subtitle": "Mathematics, astronomy & philosophy",
+      "field": "polymath",
+      "record_type": "historical",
+      "record_as_mgp": "Ghiyāth al-Dīn Abū al-Fatḥ ʿUmar ibn Ibrāhīm al-Khayyām al-Nīsābūrī 1068 Dissertation: Advisor 1: Bahmanyār ibn al-Marzubān",
+      "local_evidence": "295739.html"
+    },
+    {
+      "id": "287468",
+      "mgp_id": 287468,
+      "name": "Bahmanyār ibn al-Marzubān",
+      "display_name": "Bahmanyār ibn al-Marzubān",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=287468",
+      "display_subtitle": "Philosopher · Avicenna’s disciple",
+      "field": "philosophy",
+      "record_type": "historical",
+      "record_as_mgp": "Bahmanyār ibn al-Marzubān Dissertation: Advisor 1: Abu ʿAli al-Husayn (Avicenna) ibn Sina",
+      "local_evidence": "287468.html"
+    },
+    {
+      "id": "298616",
+      "mgp_id": 298616,
+      "name": "Abu ʿAli al-Husayn (Avicenna) ibn Sina",
+      "display_name": "Avicenna · Ibn Sina",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=298616",
+      "display_subtitle": "Medicine & philosophy · d. 1037",
+      "field": "medicine_philosophy",
+      "record_type": "historical",
+      "record_as_mgp": "Abu ʿAli al-Husayn (Avicenna) ibn Sina Dissertation: Advisor 1: Abu Abdallah Al-Husayn ibn Ibrahim al-Natili Advisor 2: Abu Sahl 'Isa ibn Yahya al-Masihi Advisor 3: Abu Mansur al-Hasan ibn Nuh al-Qumri",
+      "local_evidence": "298616.html",
+      "record_note": "Full name used by MGP: Abu ʿAli al-Husayn (Avicenna) ibn Sina. The modern scholarly reference gives an uncertain tenth-century birth date, so display d. 1037 only."
+    },
+    {
+      "id": "102192",
+      "mgp_id": 102192,
+      "name": "Yakov Zalmanovich Tsypkin",
+      "display_name": "Yakov Tsypkin",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=102192",
+      "display_subtitle": "Second mentor of Kokotović · Ph.D. 1945 / D.Sc. 1948",
+      "field": "control",
+      "record_type": "modern",
+      "record_as_mgp": "Yakov Zalmanovich Tsypkin MathSciNet Ph.D. Automatics and Telemechanics Institute 1945 Dissertation: Foundations of the theory and computations for reproducing systems Mathematics Subject Classification: 93—Systems theory; control Advisor: Unknown D.Sc. Automatics and Telemechanics Institute 1948 Dissertation: Stability and dynamics of systems with delay Mathematics Subject Classification: 93—Systems theory; control Advisor 1: Mark Aronovich Aizerman Opponent: Aleksandr Aleksandrovich Andronov",
+      "local_evidence": "102192.html"
+    },
+    {
+      "id": "180219",
+      "mgp_id": 180219,
+      "name": "Mark Aronovich Aizerman",
+      "display_name": "Mark Aizerman",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=180219",
+      "display_subtitle": "D.Sc. · 1946",
+      "field": "control",
+      "record_type": "modern",
+      "record_as_mgp": "Mark Aronovich Aizerman MathSciNet D.Sc. Automatics and Telemechanics Institute 1946 Dissertation: Критерии сходимости процессов автоматического регулирования, учитывающие нелинейность характеристик элементов установки (Convergence criteria for automatic control processes with respect to the nonlinearity of the characteristics of system elements) Mathematics Subject Classification: 93—Systems theory; control Advisor 1: Aleksandr Aleksandrovich Andronov Advisor 2: Felix Ruvimovich Gantmakher",
+      "local_evidence": "180219.html"
+    }
+  ],
+  "edges": [
+    {
+      "from": "4785",
+      "to": "103842",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "postdoctoral_mentorship",
+      "line_style": "postdoc",
+      "relationship_label": "Postdoctoral mentorship · UCSB · 1994–1996",
+      "verified_direct_mgp_edge": false,
+      "historically_independently_verified": true,
+      "evidence": [
+        {
+          "url": "https://link.springer.com/content/pdf/bfm:978-1-4471-0967-9/1",
+          "source_type": "primary_book_preface",
+          "claim": "Constructive Nonlinear Control, p. vi, explicitly describes the first two authors’ postdoctoral research with the third author at UCSB. The authors are Sepulchre, Janković, and Kokotović in that order."
+        },
+        {
+          "url": "https://www.avestia.com/CDSR2022_Proceedings/files/speakers.html",
+          "source_type": "conference_speaker_biography",
+          "claim": "Sepulchre’s UCSB postdoctoral appointment is dated 1994–1996."
+        }
+      ]
+    },
+    {
+      "from": "49257",
+      "to": "4785",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=4785",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Petar Kokotović directly lists Alexander Feldbaum in an Advisor field.",
+          "local_evidence": "4785.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    },
+    {
+      "from": "118323",
+      "to": "49257",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=49257",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Alexander Feldbaum directly lists Aleksandr Andronov in an Advisor field.",
+          "local_evidence": "49257.html"
+        }
+      ],
+      "relationship_label": "Doktor nauk adviser · 1949"
+    },
+    {
+      "from": "61599",
+      "to": "118323",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=118323",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Aleksandr Andronov directly lists Leonid Mandelstam in an Advisor field.",
+          "local_evidence": "118323.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    },
+    {
+      "from": "124194",
+      "to": "61599",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=61599",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Leonid Mandelstam directly lists Karl Ferdinand Braun in an Advisor field.",
+          "local_evidence": "61599.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    },
+    {
+      "from": "124283",
+      "to": "124194",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=124194",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Karl Ferdinand Braun directly lists Georg Hermann Quincke in an Advisor field.",
+          "local_evidence": "124194.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    },
+    {
+      "from": "123978",
+      "to": "124283",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=124283",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Georg Hermann Quincke directly lists Heinrich Gustav Magnus in an Advisor field.",
+          "local_evidence": "124283.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    },
+    {
+      "from": "123999",
+      "to": "123978",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=123978",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Heinrich Gustav Magnus directly lists Eilhard Mitscherlich in an Advisor field.",
+          "local_evidence": "123978.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    },
+    {
+      "from": "123979",
+      "to": "123999",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "recorded_academic_mentorship",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=123999",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Eilhard Mitscherlich directly lists Friedrich Stromeyer in an Advisor field.",
+          "local_evidence": "123999.html"
+        }
+      ],
+      "relationship_label": "Recorded academic adviser"
+    },
+    {
+      "from": "76485",
+      "to": "123979",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=123979",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Friedrich Stromeyer directly lists Johann Friedrich Gmelin in an Advisor field.",
+          "local_evidence": "123979.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    },
+    {
+      "from": "76484",
+      "to": "76485",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=76485",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Johann Friedrich Gmelin directly lists Philipp Friedrich Gmelin in an Advisor field.",
+          "local_evidence": "76485.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "76483",
+      "to": "76484",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=76484",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Philipp Friedrich Gmelin directly lists Burchard David Mauchart in an Advisor field.",
+          "local_evidence": "76484.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "76482",
+      "to": "76483",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=76483",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Burchard David Mauchart directly lists Elias Rudolph Camerarius Jr. in an Advisor field.",
+          "local_evidence": "76483.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "76481",
+      "to": "76482",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=76482",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Elias Rudolph Camerarius Jr. directly lists Elias Rudolph Camerarius Sr. in an Advisor field.",
+          "local_evidence": "76482.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "123974",
+      "to": "76481",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=76481",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Elias Rudolph Camerarius Sr. directly lists Georg Balthasar Metzger in an Advisor field.",
+          "local_evidence": "76481.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "182088",
+      "to": "123974",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=123974",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Georg Balthasar Metzger directly lists Johann Jakob von Brunn in an Advisor field.",
+          "local_evidence": "123974.html"
+        }
+      ],
+      "relationship_label": "Medical doctorate adviser · Basel 1650"
+    },
+    {
+      "from": "125048",
+      "to": "182088",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=182088",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Johann Jakob von Brunn directly lists Johannes Nicolaus Stupanus in an Advisor field.",
+          "local_evidence": "182088.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "125148",
+      "to": "125048",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=125048",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Johannes Nicolaus Stupanus directly lists Theodor Zwinger in an Advisor field.",
+          "local_evidence": "125048.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "152906",
+      "to": "125148",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=125148",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Theodor Zwinger directly lists Bassiano Landi in an Advisor field.",
+          "local_evidence": "125148.html"
+        }
+      ],
+      "relationship_label": "Medical doctorate adviser · Padua 1559"
+    },
+    {
+      "from": "152904",
+      "to": "152906",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=152906",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Bassiano Landi directly lists Giovanni Battista della Monte in an Advisor field.",
+          "local_evidence": "152906.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "127166",
+      "to": "152904",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "medical_degree_advisor",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=152904",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Giovanni Battista della Monte directly lists Niccolò Leoniceno in an Advisor field.",
+          "local_evidence": "152904.html"
+        }
+      ],
+      "relationship_label": "Medical degree adviser recorded by MGP"
+    },
+    {
+      "from": "149192",
+      "to": "127166",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=127166",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Niccolò Leoniceno directly lists Ognibene Bonisoli da Lonigo in an Advisor field.",
+          "local_evidence": "127166.html"
+        }
+      ],
+      "relationship_label": "Earlier teacher · school/B.A. record 1446",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "134873",
+      "to": "149192",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=149192",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Ognibene Bonisoli da Lonigo directly lists Vittorino da Feltre in an Advisor field.",
+          "local_evidence": "149192.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "134931",
+      "to": "134873",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=134873",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Vittorino da Feltre directly lists Guarino da Verona in an Advisor field.",
+          "local_evidence": "134873.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "135185",
+      "to": "134931",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=134931",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Guarino da Verona directly lists Manuel Chrysoloras in an Advisor field.",
+          "local_evidence": "134931.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "134780",
+      "to": "135185",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=135185",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Manuel Chrysoloras directly lists Demetrios Kydones in an Advisor field.",
+          "local_evidence": "135185.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "146365",
+      "to": "134780",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=134780",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Demetrios Kydones directly lists Nilos Kabasilas in an Advisor field.",
+          "local_evidence": "134780.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "176844",
+      "to": "146365",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=146365",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Nilos Kabasilas directly lists Gregory Palamas in an Advisor field.",
+          "local_evidence": "146365.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "184631",
+      "to": "176844",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=176844",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Gregory Palamas directly lists Theodore Metochites in an Advisor field.",
+          "local_evidence": "176844.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "184632",
+      "to": "184631",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=184631",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Theodore Metochites directly lists Manuel Bryennios in an Advisor field.",
+          "local_evidence": "184631.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "201288",
+      "to": "184632",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=184632",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Manuel Bryennios directly lists Gregory Chioniades in an Advisor field.",
+          "local_evidence": "184632.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "204293",
+      "to": "201288",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=201288",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Gregory Chioniades directly lists Shams al-Dīn al-Bukhārī in an Advisor field.",
+          "local_evidence": "201288.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "217509",
+      "to": "204293",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=204293",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Shams al-Dīn al-Bukhārī directly lists Nasir al-Dīn al-Ṭūsī in an Advisor field.",
+          "local_evidence": "204293.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "223724",
+      "to": "217509",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=217509",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Nasir al-Dīn al-Ṭūsī directly lists Kamal al-Din Ibn Yunus in an Advisor field.",
+          "local_evidence": "217509.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "287466",
+      "to": "223724",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=223724",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Kamal al-Din Ibn Yunus directly lists Sharaf al-Din al-Masudi al-Marwazi in an Advisor field.",
+          "local_evidence": "223724.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "295739",
+      "to": "287466",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=287466",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Sharaf al-Din al-Masudi al-Marwazi directly lists Omar Khayyam in an Advisor field.",
+          "local_evidence": "287466.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "287468",
+      "to": "295739",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "possible_teacher",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=295739",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Omar Khayyam directly lists Bahmanyār ibn al-Marzubān in an Advisor field.",
+          "local_evidence": "295739.html"
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/umar-khayyam/",
+          "source_type": "scholarly_reference",
+          "claim": "Section 1 says traditional biographers indicate Khayyam may have studied with Bahmanyār; it does not establish the connection as certain."
+        }
+      ],
+      "relationship_label": "Possible teacher · uncertain",
+      "uncertain": true
+    },
+    {
+      "from": "298616",
+      "to": "287468",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_recorded_teacher_or_influence",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=287468",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Bahmanyār ibn al-Marzubān directly lists Avicenna · Ibn Sina in an Advisor field.",
+          "local_evidence": "287468.html"
+        }
+      ],
+      "relationship_label": "MGP-recorded historical link",
+      "caveat": "Directly verified as a link in MGP; independent historical proof of a personal teacher relationship was not established in this bounded research."
+    },
+    {
+      "from": "102192",
+      "to": "4785",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=4785",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Petar Kokotović directly lists Yakov Tsypkin in an Advisor field.",
+          "local_evidence": "4785.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    },
+    {
+      "from": "180219",
+      "to": "102192",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=102192",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Yakov Tsypkin directly lists Mark Aizerman in an Advisor field.",
+          "local_evidence": "102192.html"
+        }
+      ],
+      "relationship_label": "D.Sc. adviser · 1948"
+    },
+    {
+      "from": "118323",
+      "to": "180219",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "historically_independently_verified": false,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=180219",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Mark Aizerman directly lists Aleksandr Andronov in an Advisor field.",
+          "local_evidence": "180219.html"
+        }
+      ],
+      "relationship_label": "Doctoral adviser recorded by MGP"
+    }
+  ],
+  "chosen_layout": {
+    "main_path_recent_to_older": [
+      "103842",
+      "4785",
+      "49257",
+      "118323",
+      "61599",
+      "124194",
+      "124283",
+      "123978",
+      "123999",
+      "123979",
+      "76485",
+      "76484",
+      "76483",
+      "76482",
+      "76481",
+      "123974",
+      "182088",
+      "125048",
+      "125148",
+      "152906",
+      "152904",
+      "127166",
+      "149192",
+      "134873",
+      "134931",
+      "135185",
+      "134780",
+      "146365",
+      "176844",
+      "184631",
+      "184632",
+      "201288",
+      "204293",
+      "217509",
+      "223724",
+      "287466",
+      "295739",
+      "287468",
+      "298616"
+    ],
+    "visible_anchor_ids": [
+      "103842",
+      "4785",
+      "49257",
+      "118323",
+      "76485",
+      "76484",
+      "76483",
+      "125148",
+      "127166",
+      "201288",
+      "298616"
+    ],
+    "optional_control_branch_ids": [
+      "102192",
+      "180219"
+    ],
+    "clusters": [
+      {
+        "id": "physics-chemistry",
+        "title": "Physics and chemistry",
+        "recent_anchor": "118323",
+        "older_anchor": "76485",
+        "intermediate_ids": [
+          "61599",
+          "124194",
+          "124283",
+          "123978",
+          "123999",
+          "123979"
+        ],
+        "path_ids": [
+          "118323",
+          "61599",
+          "124194",
+          "124283",
+          "123978",
+          "123999",
+          "123979",
+          "76485"
+        ],
+        "default_collapsed": true,
+        "collapsed_edge_label": "6 intermediate scholars · expand",
+        "contains_historical_links": false,
+        "contains_uncertain_link": false
+      },
+      {
+        "id": "early-medicine",
+        "title": "Medicine at Tübingen and Basel",
+        "recent_anchor": "76483",
+        "older_anchor": "125148",
+        "intermediate_ids": [
+          "76482",
+          "76481",
+          "123974",
+          "182088",
+          "125048"
+        ],
+        "path_ids": [
+          "76483",
+          "76482",
+          "76481",
+          "123974",
+          "182088",
+          "125048",
+          "125148"
+        ],
+        "default_collapsed": true,
+        "collapsed_edge_label": "5 intermediate scholars · expand",
+        "contains_historical_links": false,
+        "contains_uncertain_link": false
+      },
+      {
+        "id": "renaissance-medicine",
+        "title": "Renaissance medicine",
+        "recent_anchor": "125148",
+        "older_anchor": "127166",
+        "intermediate_ids": [
+          "152906",
+          "152904"
+        ],
+        "path_ids": [
+          "125148",
+          "152906",
+          "152904",
+          "127166"
+        ],
+        "default_collapsed": true,
+        "collapsed_edge_label": "2 intermediate scholars · expand",
+        "contains_historical_links": false,
+        "contains_uncertain_link": false
+      },
+      {
+        "id": "byzantine-humanism",
+        "title": "Humanism and Byzantine learning",
+        "recent_anchor": "127166",
+        "older_anchor": "201288",
+        "intermediate_ids": [
+          "149192",
+          "134873",
+          "134931",
+          "135185",
+          "134780",
+          "146365",
+          "176844",
+          "184631",
+          "184632"
+        ],
+        "path_ids": [
+          "127166",
+          "149192",
+          "134873",
+          "134931",
+          "135185",
+          "134780",
+          "146365",
+          "176844",
+          "184631",
+          "184632",
+          "201288"
+        ],
+        "default_collapsed": true,
+        "collapsed_edge_label": "9 intermediate scholars · expand",
+        "contains_historical_links": true,
+        "contains_uncertain_link": false
+      },
+      {
+        "id": "persian-scholarship",
+        "title": "Persian scholarship · historical attributions",
+        "recent_anchor": "201288",
+        "older_anchor": "298616",
+        "intermediate_ids": [
+          "204293",
+          "217509",
+          "223724",
+          "287466",
+          "295739",
+          "287468"
+        ],
+        "path_ids": [
+          "201288",
+          "204293",
+          "217509",
+          "223724",
+          "287466",
+          "295739",
+          "287468",
+          "298616"
+        ],
+        "default_collapsed": true,
+        "collapsed_edge_label": "6 intermediate scholars · expand",
+        "contains_historical_links": true,
+        "contains_uncertain_link": true
+      }
+    ],
+    "legend": {
+      "postdoc": "Postdoctoral mentorship",
+      "solid": "Doctoral or medical degree adviser recorded by MGP",
+      "dashed": "Recorded academic or historical teaching/influence; not a PhD chain",
+      "uncertain": "Explicitly uncertain teacher attribution"
+    },
+    "caption": "Sepulchre’s postdoctoral work with Petar Kokotović opens a selected MGP route through control, physics, chemistry and medicine. Older links are historical teaching or influence records, with uncertainty shown.",
+    "compact_names_recent_to_older": "Rodolphe Sepulchre ← Petar Kokotović ← Alexander Feldbaum ← Aleksandr Andronov ← Leonid Mandelstam ← Karl Ferdinand Braun ← Georg Hermann Quincke ← Heinrich Gustav Magnus ← Eilhard Mitscherlich ← Friedrich Stromeyer ← Johann Friedrich Gmelin ← Philipp Friedrich Gmelin ← Burchard David Mauchart ← Elias Rudolph Camerarius Jr. ← Elias Rudolph Camerarius Sr. ← Georg Balthasar Metzger ← Johann Jakob von Brunn ← Johannes Nicolaus Stupanus ← Theodor Zwinger ← Bassiano Landi ← Giovanni Battista della Monte ← Niccolò Leoniceno ← Ognibene Bonisoli da Lonigo ← Vittorino da Feltre ← Guarino da Verona ← Manuel Chrysoloras ← Demetrios Kydones ← Nilos Kabasilas ← Gregory Palamas ← Theodore Metochites ← Manuel Bryennios ← Gregory Chioniades ← Shams al-Dīn al-Bukhārī ← Nasir al-Dīn al-Ṭūsī ← Kamal al-Din Ibn Yunus ← Sharaf al-Din al-Masudi al-Marwazi ← Omar Khayyam ← Bahmanyār ibn al-Marzubān ← Avicenna · Ibn Sina"
+  },
+  "limitations": [
+    "The 39-person main route is complete as a sequence of directly inspected MGP Advisor links plus the separately sourced Sepulchre–Kokotović postdoctoral link. It is not a continuous independently proven doctoral pedigree to Avicenna.",
+    "Rodolphe’s postdoctoral mentorship is with Petar Kokotović. Mrdjan Janković was another postdoctoral researcher and coauthor in the same project, not evidence of an additional postdoctoral supervisor.",
+    "Kokotović’s MGP entry lists both Yakov Tsypkin and Alexander Feldbaum. His IEEE oral history confirms he began with Feldbaum and moved to Tsypkin after Feldbaum suffered a stroke. The selected older route uses Feldbaum, while a short optional Tsypkin–Aizerman branch rejoins Andronov.",
+    "Tsypkin’s 1945 Ph.D. adviser is unknown. Aizerman belongs to his 1948 D.Sc. record. Andronov is explicitly an opponent in Tsypkin’s entry and is not represented as his direct adviser in this tree.",
+    "Metzger’s selected link to von Brunn belongs to his medical doctorate (Basel 1650), not his Jena Magister record. Zwinger’s selected link to Landi belongs to his Padua medical doctorate (1559), not his earlier degree with Ramus.",
+    "Mitscherlich’s Stromeyer link is displayed as MGP-recorded academic mentorship; the MGP entry associates an 1814 literary degree and Persian-history dissertation with this adviser, which has not been independently validated as doctoral supervision.",
+    "Leoniceno’s Bonisoli link follows his earlier school/B.A. record, not his medical doctorate. From there toward Avicenna use dashed historical links, without generic Ph.D. labels or invented degree dates.",
+    "The Khayyam–Bahmanyār connection is explicitly qualified as possible in the Stanford Encyclopedia of Philosophy. Preserve that uncertainty even when the intermediate scholars are collapsed.",
+    "The Byzantine and Persian teacher/influence links are verified as MGP records but not all independently verified from specialist historical scholarship. Do not call the whole route a proven chain of personal supervision.",
+    "This is a selected branch, not the complete many-parent MGP network. MGP depends substantially on contributed data; original diplomas and manuscripts were not inspected for every entry."
+  ],
+  "additional_support": [
+    {
+      "url": "https://link.springer.com/content/pdf/bfm:978-1-4471-0967-9/1",
+      "claim": "Primary, jointly signed preface, dated Santa Barbara August 1996, verifies the UCSB postdoctoral relationship."
+    },
+    {
+      "url": "https://ethw.org/Oral-History:Petar_Kokotovic_(1995)",
+      "claim": "Kokotović’s first-person account confirms Feldbaum and Tsypkin mentorship and his 1965 candidate degree. Paraphrase rather than reproducing passages."
+    },
+    {
+      "url": "https://plato.stanford.edu/entries/umar-khayyam/",
+      "claim": "Scholarly reference qualifies the Bahmanyār connection as possible and rejects direct study with Avicenna."
+    },
+    {
+      "url": "https://plato.stanford.edu/entries/ibn-sina/",
+      "claim": "Avicenna was a philosopher and physician; Latin translations of his Canon underpinned European medical instruction into the seventeenth century. This is intellectual context, not an added supervisor edge."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/muwo.12430",
+      "claim": "Specialist study describes letters between Avicenna and his disciple Bahmanyār, supporting their historical association."
+    },
+    {
+      "url": "https://ismi.mpiwg-berlin.mpg.de/biography/Chioniades_BEA.htm",
+      "claim": "Biographical Encyclopedia of Astronomers entry by Katherine Haramundanis identifies Chioniades as a physician. Supports the subtitle; no new edge inferred."
+    },
+    {
+      "url": "https://www.mathgenealogy.org/faq.php",
+      "claim": "MGP explains its substantial reliance on contributed records."
+    }
+  ],
+  "alternative_conservative_layout": {
+    "instruction": "If the site requires only independently corroborated personal supervision, show the sourced modern/medical segment, insert a visible historical gap, and show Avicenna separately as a medicine-and-philosophy root with the SEP contextual citation. Do not draw a solid uninterrupted connection to him."
+  }
+}

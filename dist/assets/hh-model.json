@@ -1,0 +1,141 @@
+{
+  "title": "Hodgkin–Huxley spike on a five-line musical staff",
+  "data_type": "Illustrative deterministic numerical simulation; not an experimental recording",
+  "model": "Classical space-clamped squid-axon Hodgkin–Huxley model (1952), modern inside-minus-outside voltage convention used by NEURON hh.mod",
+  "temperature_degC": 6.3,
+  "q10_rate_factor": 1.0,
+  "units": {
+    "time": "ms",
+    "voltage": "mV",
+    "capacitance_density": "uF/cm^2",
+    "conductance_density": "mS/cm^2",
+    "current_density": "uA/cm^2",
+    "gating_variables": "dimensionless"
+  },
+  "parameters": {
+    "C_m": 1.0,
+    "g_Na_max": 120.0,
+    "g_K_max": 36.0,
+    "g_L": 0.3,
+    "E_Na": 50.0,
+    "E_K": -77.0,
+    "E_L": -54.3
+  },
+  "equations": {
+    "membrane": "C_m*dV/dt = I_inj - g_Na_max*m^3*h*(V-E_Na) - g_K_max*n^4*(V-E_K) - g_L*(V-E_L)",
+    "gate": "dx/dt = alpha_x(V)*(1-x)-beta_x(V)*x, x in {m,h,n}",
+    "alpha_m": "0.1*(V+40)/(1-exp(-(V+40)/10))",
+    "beta_m": "4*exp(-(V+65)/18)",
+    "alpha_h": "0.07*exp(-(V+65)/20)",
+    "beta_h": "1/(exp(-(V+35)/10)+1)",
+    "alpha_n": "0.01*(V+55)/(1-exp(-(V+55)/10))",
+    "beta_n": "0.125*exp(-(V+65)/80)",
+    "rate_units": "1/ms",
+    "singularities": "Removable singularities in alpha_m at -40 mV and alpha_n at -55 mV evaluated by their continuous limits."
+  },
+  "initial_condition": {
+    "method": "Zero-current equilibrium solved by Brent root finding; gates initialized at alpha/(alpha+beta)",
+    "V_mV": -64.97405245162668,
+    "m": 0.053094651784847305,
+    "h": 0.5952130171676474,
+    "n": 0.31807461723758995
+  },
+  "stimulus": {
+    "type": "single rectangular depolarizing current-density pulse",
+    "amplitude_uA_per_cm2": 10.0,
+    "start_ms": 47.49,
+    "end_ms_exclusive": 48.49,
+    "otherwise_uA_per_cm2": 0,
+    "note": "Illustrative stimulus selected for this banner, not a claimed reproduction of a particular experiment."
+  },
+  "numerics": {
+    "solver": "scipy.integrate.solve_ivp DOP853",
+    "scipy_version": "1.17.0",
+    "rtol": 1e-10,
+    "atol": 1e-12,
+    "max_step_ms": 0.025,
+    "integration": "Three segments ending exactly at stimulus discontinuities",
+    "output_interval_ms": 0.005,
+    "time_range_ms": [
+      0,
+      100.0
+    ],
+    "output_rows": 20001
+  },
+  "validation": {
+    "spikes_with_peak_above_0_mV": 1,
+    "peak_voltage_mV": 39.04349889300383,
+    "peak_time_ms": 50.0,
+    "minimum_voltage_mV": -76.16906208915334,
+    "width_at_half_height_above_rest_ms": 1.4536431224967146,
+    "width_above_rest_plus_5_mV_ms": 4.035125280083037,
+    "width_at_half_height_above_rest_px": 14.420139775167408,
+    "width_above_rest_plus_5_mV_px": 40.028442778423724,
+    "gating_variables_within_0_1": true,
+    "max_voltage_difference_mV_when_max_step_halved": 2.524181752505683e-08
+  },
+  "rendering": {
+    "size_px": [
+      1000,
+      86
+    ],
+    "background": "transparent",
+    "staff_lines_y_px": [
+      24,
+      34,
+      44,
+      54,
+      64
+    ],
+    "staff_color": "#d9dfe5",
+    "trace_color": "#253e59",
+    "staff_stroke_px": 0.7,
+    "trace_stroke_px": 1.5,
+    "visible_text": false,
+    "mapping": "x = 4 + time_ms/100.0*992; y = 64 - (voltage_mV-(-64.97405245162668))*0.52",
+    "coordinate_mapping": "Linear in both time and voltage",
+    "revision": {
+      "prior_window_ms": 40.0,
+      "current_window_ms": 100.0,
+      "horizontal_waveform_scale_relative_to_prior": 0.4,
+      "stimulus_translation_ms": 33.49,
+      "reason": "Sharper and narrower visual spike by expanding the time window while centering the action potential. No waveform reshaping or nonuniform time warping.",
+      "unchanged": [
+        "HH conductances, reversals, capacitance, temperature, gating kinetics",
+        "1 ms stimulus duration and 10 uA/cm^2 amplitude",
+        "0.52 px per mV vertical scale",
+        "five staff positions and colors"
+      ],
+      "trace_stroke_change_px": [
+        1.75,
+        1.5
+      ]
+    },
+    "path_simplification": "Ramer-Douglas-Peucker, maximum geometric error 0.02 SVG pixels before 0.001 pixel coordinate rounding",
+    "path_vertices": 85
+  },
+  "sources": [
+    {
+      "title": "Hodgkin and Huxley (1952). A quantitative description of membrane current and its application to conduction and excitation in nerve. J Physiol 117:500–544.",
+      "url": "https://doi.org/10.1113/jphysiol.1952.sp004764",
+      "role": "Original primary publication"
+    },
+    {
+      "title": "NEURON official hh.mod source",
+      "url": "https://raw.githubusercontent.com/neuronsimulator/nrn/master/src/nrnoc/hh.mod",
+      "role": "Verified voltage convention, six gating rates, sodium/potassium/leak conductances, leak reversal, and temperature scaling",
+      "accessed": "2026-09-13"
+    },
+    {
+      "title": "Oberlin College NEURON tutorial: building a basic soma",
+      "url": "https://www2.oberlin.edu/octet/HowTo/NEURON/A1_MyFirstNeuon.html",
+      "role": "Institutional implementation documentation confirming NEURON HH sodium and potassium reversal defaults (+50 and -77 mV)",
+      "accessed": "2026-09-13"
+    }
+  ],
+  "files": {
+    "banner": "hh-staff.svg",
+    "sampled_data": "hh-trace.csv",
+    "reproducible_code": "../../scripts/generate_hh_staff.py"
+  }
+}

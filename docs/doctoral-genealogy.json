@@ -1,0 +1,513 @@
+{
+  "title": "Rodolphe Sepulchre’s mathematical ancestry",
+  "verified_on": "2026-09-13",
+  "status": "complete_selected_MGP_path",
+  "edge_direction": "ancestor/advisor to descendant/student",
+  "nodes": [
+    {
+      "id": "103842",
+      "mgp_id": 103842,
+      "name": "Rodolphe J. Sepulchre",
+      "display_name": "Rodolphe Sepulchre",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=103842",
+      "degree_as_mgp": "Ph.D.",
+      "institution_as_mgp": "Université Catholique de Louvain",
+      "year_as_mgp": 1994,
+      "thesis_as_mgp": "Contributions to nonlinear control systems analysis by means of the direct method of Liapunov",
+      "display_subtitle": "Ph.D. · Louvain · 1994",
+      "record_type": "doctoral",
+      "local_evidence": "mgp-103842.html"
+    },
+    {
+      "id": "137302",
+      "mgp_id": 137302,
+      "name": "Dirk Aeyels",
+      "display_name": "Dirk Aeyels",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=137302",
+      "degree_as_mgp": "D.Sc.",
+      "institution_as_mgp": "Washington University in St. Louis",
+      "year_as_mgp": 1978,
+      "thesis_as_mgp": "Global Observability for Nonlinear Autonomous Differential Equations",
+      "display_subtitle": "D.Sc. · Washington University · 1978",
+      "record_type": "doctoral",
+      "local_evidence": "mgp-137302.html"
+    },
+    {
+      "id": "16951",
+      "mgp_id": 16951,
+      "name": "David LeRoy Elliott",
+      "display_name": "David L. Elliott",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=16951",
+      "degree_as_mgp": "Ph.D.",
+      "institution_as_mgp": "University of California, Los Angeles",
+      "year_as_mgp": 1969,
+      "thesis_as_mgp": "Controllable Nonlinear Systems Driven by White Noise",
+      "display_subtitle": "Ph.D. · UCLA · 1969",
+      "record_type": "doctoral",
+      "local_evidence": "mgp-16951.html"
+    },
+    {
+      "id": "43603",
+      "mgp_id": 43603,
+      "name": "Alampallam Venkatachalaiyer Balakrishnan",
+      "display_name": "A. V. Balakrishnan",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=43603",
+      "degree_as_mgp": "Ph.D.",
+      "institution_as_mgp": "University of Southern California",
+      "year_as_mgp": 1954,
+      "thesis_as_mgp": "On Powers of the Infinitesimal Generators of Groups and Semi-Groups",
+      "display_subtitle": "Ph.D. · USC · 1954",
+      "record_type": "doctoral",
+      "local_evidence": "mgp-43603.html"
+    },
+    {
+      "id": "5207",
+      "mgp_id": 5207,
+      "name": "Ralph Saul Phillips",
+      "display_name": "Ralph S. Phillips",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=5207",
+      "degree_as_mgp": "Ph.D.",
+      "institution_as_mgp": "University of Michigan",
+      "year_as_mgp": 1939,
+      "thesis_as_mgp": "Integration in a Convex Linear Topological Space",
+      "display_subtitle": "Ph.D. · Michigan · 1939",
+      "record_type": "doctoral",
+      "local_evidence": "mgp-5207.html"
+    },
+    {
+      "id": "5891",
+      "mgp_id": 5891,
+      "name": "Theophil Henry Hildebrandt",
+      "display_name": "T. H. Hildebrandt",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=5891",
+      "degree_as_mgp": "Ph.D.",
+      "institution_as_mgp": "The University of Chicago",
+      "year_as_mgp": 1910,
+      "thesis_as_mgp": "A Contribution to the Foundations of Frechet's Calcul Fonctionnel",
+      "display_subtitle": "Ph.D. · Chicago · 1910",
+      "record_type": "doctoral",
+      "local_evidence": "mgp-5891.html"
+    },
+    {
+      "id": "806",
+      "mgp_id": 806,
+      "name": "E. H. (Eliakim Hastings) Moore",
+      "display_name": "E. H. Moore",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=806",
+      "degree_as_mgp": "Ph.D.",
+      "institution_as_mgp": "Yale University",
+      "year_as_mgp": 1885,
+      "thesis_as_mgp": "Extensions of Certain Theorems of Clifford and Cayley in the Geometry of n Dimensions",
+      "display_subtitle": "Ph.D. · Yale · 1885",
+      "record_type": "doctoral",
+      "local_evidence": "mgp-806.html"
+    },
+    {
+      "id": "7865",
+      "mgp_id": 7865,
+      "name": "H. A. (Hubert Anson) Newton",
+      "display_name": "Hubert Anson Newton",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=7865",
+      "degree_as_mgp": "B.A.",
+      "institution_as_mgp": "Yale University",
+      "year_as_mgp": 1850,
+      "thesis_as_mgp": null,
+      "display_subtitle": "B.A. · Yale · 1850",
+      "record_type": "non_doctoral",
+      "local_evidence": "mgp-7865.html",
+      "note": "MGP records a B.A. at Yale, not a doctorate; the Chasles connection is an intellectual study relationship and should not be described as supervision of this Yale B.A."
+    },
+    {
+      "id": "26995",
+      "mgp_id": 26995,
+      "name": "Michel Chasles",
+      "display_name": "Michel Chasles",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=26995",
+      "degree_as_mgp": "Ph.D.",
+      "institution_as_mgp": "École Polytechnique",
+      "year_as_mgp": 1814,
+      "thesis_as_mgp": null,
+      "display_subtitle": "École Polytechnique · 1814",
+      "record_type": "historical_schooling",
+      "local_evidence": "mgp-26995.html",
+      "note": "MGP labels the record Ph.D.; the historical school studies should not be presented as equivalent to a modern supervised research doctorate. The display subtitle intentionally omits Ph.D."
+    },
+    {
+      "id": "17865",
+      "mgp_id": 17865,
+      "name": "Siméon Denis Poisson",
+      "display_name": "Siméon-Denis Poisson",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=17865",
+      "degree_as_mgp": "Ph.D.",
+      "institution_as_mgp": "École Polytechnique",
+      "year_as_mgp": 1800,
+      "thesis_as_mgp": null,
+      "display_subtitle": "École Polytechnique · 1800",
+      "record_type": "historical_schooling",
+      "local_evidence": "mgp-17865.html",
+      "note": "MGP labels the record Ph.D.; the historical school studies should not be presented as equivalent to a modern supervised research doctorate. The display subtitle intentionally omits Ph.D."
+    },
+    {
+      "id": "17864",
+      "mgp_id": 17864,
+      "name": "Joseph Louis Lagrange",
+      "display_name": "Joseph-Louis Lagrange",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=17864",
+      "degree_as_mgp": "no degree",
+      "institution_as_mgp": null,
+      "year_as_mgp": null,
+      "thesis_as_mgp": "Epistolary Correspondence on Variational Calculus",
+      "display_subtitle": "Correspondence with Euler",
+      "record_type": "historical_correspondence",
+      "local_evidence": "mgp-17864.html",
+      "additional_degree_as_mgp": {
+        "degree": "B.A.",
+        "institution": "Università di Torino",
+        "year": 1754,
+        "advisor_mgp_id": 146036,
+        "advisor": "Giovanni Battista (Giambattista) Beccaria"
+      },
+      "note": "The Euler connection belongs to a separate no-degree correspondence record. The 1754 B.A. record is supervised by Beccaria, not Euler."
+    },
+    {
+      "id": "38586",
+      "mgp_id": 38586,
+      "name": "Leonhard Euler",
+      "display_name": "Leonhard Euler",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=38586",
+      "degree_as_mgp": null,
+      "institution_as_mgp": "Universität Basel",
+      "year_as_mgp": 1726,
+      "thesis_as_mgp": "Dissertatio physica de sono",
+      "display_subtitle": "Basel · 1726 (MGP record)",
+      "record_type": "historical_record",
+      "local_evidence": "mgp-38586.html",
+      "note": "MGP does not provide a degree label for this Basel 1726 record. Do not label it Ph.D."
+    },
+    {
+      "id": "108295",
+      "mgp_id": 108295,
+      "name": "Pierre-Simon Laplace",
+      "display_name": "Pierre-Simon Laplace",
+      "mgp_url": "https://www.mathgenealogy.org/id.php?id=108295",
+      "degree_as_mgp": "Maitrise es arts",
+      "institution_as_mgp": "Université de Caen Normandie",
+      "year_as_mgp": 1769,
+      "thesis_as_mgp": "Recherches sur le calcul integral aux differences infiniment petites et aux differences finies",
+      "display_subtitle": "Maîtrise ès arts · Caen · 1769",
+      "record_type": "non_doctoral",
+      "local_evidence": "mgp-108295.html"
+    }
+  ],
+  "edges": [
+    {
+      "from": "137302",
+      "to": "103842",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=103842",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Rodolphe Sepulchre directly lists Dirk Aeyels in an Advisor field.",
+          "local_evidence": "mgp-103842.html"
+        }
+      ]
+    },
+    {
+      "from": "16951",
+      "to": "137302",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=137302",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Dirk Aeyels directly lists David L. Elliott in an Advisor field.",
+          "local_evidence": "mgp-137302.html"
+        },
+        {
+          "url": "https://isr.umd.edu/news/story/david-l-elliott-an-appreciation",
+          "source_type": "official_university_biography",
+          "claim": "The University of Maryland explicitly names Dirk Aeyels among the academics advised by Elliott."
+        }
+      ]
+    },
+    {
+      "from": "43603",
+      "to": "16951",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=16951",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for David L. Elliott directly lists A. V. Balakrishnan in an Advisor field.",
+          "local_evidence": "mgp-16951.html"
+        },
+        {
+          "url": "https://drum.lib.umd.edu/items/b542f8cc-5978-4b96-88f6-39b586f8582c",
+          "source_type": "official_thesis_repository",
+          "claim": "The repository states that Elliott completed this UCLA Ph.D. thesis in 1969 under A. V. Balakrishnan."
+        }
+      ]
+    },
+    {
+      "from": "5207",
+      "to": "43603",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=43603",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for A. V. Balakrishnan directly lists Ralph S. Phillips in an Advisor field.",
+          "local_evidence": "mgp-43603.html"
+        }
+      ]
+    },
+    {
+      "from": "5891",
+      "to": "5207",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=5207",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Ralph S. Phillips directly lists T. H. Hildebrandt in an Advisor field.",
+          "local_evidence": "mgp-5207.html"
+        }
+      ]
+    },
+    {
+      "from": "806",
+      "to": "5891",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=5891",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for T. H. Hildebrandt directly lists E. H. Moore in an Advisor field.",
+          "local_evidence": "mgp-5891.html"
+        }
+      ]
+    },
+    {
+      "from": "7865",
+      "to": "806",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "doctoral_supervision",
+      "line_style": "solid",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=806",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for E. H. Moore directly lists Hubert Anson Newton in an Advisor field.",
+          "local_evidence": "mgp-806.html"
+        }
+      ]
+    },
+    {
+      "from": "26995",
+      "to": "7865",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_teaching_or_mentorship",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=7865",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Hubert Anson Newton directly lists Michel Chasles in an Advisor field.",
+          "local_evidence": "mgp-7865.html"
+        }
+      ],
+      "note": "The edge is in MGP, but Newton’s listed degree is a Yale B.A. and Chasles taught in Paris. This must not be rendered as a Yale doctorate or Yale B.A. supervision link."
+    },
+    {
+      "from": "17865",
+      "to": "26995",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_teaching_or_mentorship",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=26995",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Michel Chasles directly lists Siméon-Denis Poisson in an Advisor field.",
+          "local_evidence": "mgp-26995.html"
+        }
+      ],
+      "note": "Direct MGP advisor edge; classify conservatively as historical school instruction rather than assert a modern doctorate."
+    },
+    {
+      "from": "17864",
+      "to": "17865",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_teaching_or_mentorship",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=17865",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Siméon-Denis Poisson directly lists Joseph-Louis Lagrange in an Advisor field.",
+          "local_evidence": "mgp-17865.html"
+        },
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poisson/",
+          "source_type": "university_historical_biography",
+          "claim": "MacTutor explicitly identifies Laplace and Lagrange as Poisson’s teachers and describes his graduation in 1800."
+        }
+      ]
+    },
+    {
+      "from": "38586",
+      "to": "17864",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "epistolary_intellectual_heritage",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=17864",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Joseph-Louis Lagrange directly lists Leonhard Euler in an Advisor field.",
+          "local_evidence": "mgp-17864.html"
+        },
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/",
+          "source_type": "university_historical_biography",
+          "claim": "MacTutor describes Lagrange as largely self taught and documents his correspondence with Euler in 1754–1756."
+        }
+      ],
+      "note": "MGP explicitly says no degree and Epistolary Correspondence on Variational Calculus."
+    },
+    {
+      "from": "108295",
+      "to": "17865",
+      "direction": "advisor_or_mentor_to_student",
+      "relation_type": "historical_teaching_or_mentorship",
+      "line_style": "dashed",
+      "verified_direct_mgp_edge": true,
+      "evidence": [
+        {
+          "url": "https://www.mathgenealogy.org/id.php?id=17865",
+          "source_type": "primary_MGP_record",
+          "claim": "The record for Siméon-Denis Poisson directly lists Pierre-Simon Laplace in an Advisor field.",
+          "local_evidence": "mgp-17865.html"
+        },
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poisson/",
+          "source_type": "university_historical_biography",
+          "claim": "MacTutor explicitly identifies Laplace and Lagrange as Poisson’s teachers and describes his graduation in 1800."
+        }
+      ]
+    }
+  ],
+  "chosen_layout": {
+    "main_path_recent_to_older": [
+      "103842",
+      "137302",
+      "16951",
+      "43603",
+      "5207",
+      "5891",
+      "806",
+      "7865",
+      "26995",
+      "17865",
+      "17864",
+      "38586"
+    ],
+    "branch": {
+      "from": "17865",
+      "to": "108295",
+      "relationship": "Laplace is the second advisor listed for Poisson; place beside Lagrange."
+    },
+    "levels_recent_to_older": [
+      [
+        "103842"
+      ],
+      [
+        "137302"
+      ],
+      [
+        "16951"
+      ],
+      [
+        "43603"
+      ],
+      [
+        "5207"
+      ],
+      [
+        "5891"
+      ],
+      [
+        "806"
+      ],
+      [
+        "7865"
+      ],
+      [
+        "26995"
+      ],
+      [
+        "17865"
+      ],
+      [
+        "17864",
+        "108295"
+      ],
+      [
+        "38586"
+      ]
+    ],
+    "legend": {
+      "solid": "Doctoral supervision",
+      "dashed": "Historical teaching, mentorship or correspondence"
+    },
+    "caption": "A selected branch from the Mathematics Genealogy Project. Solid links mark doctoral supervision; dashed links mark historical teaching, mentorship or correspondence.",
+    "compact_names_recent_to_older": "Sepulchre ← Aeyels ← Elliott ← Balakrishnan ← Phillips ← Hildebrandt ← Moore ← H. A. Newton ← Chasles ← Poisson ← Lagrange ← Euler; Laplace is a second branch above Poisson."
+  },
+  "limitations": [
+    "This is a selected ancestry branch, not an exhaustive ancestry network. Euler and Laplace are deliberate display endpoints; MGP lists older ancestors beyond both.",
+    "MGP currently lists only Dirk Aeyels as Rodolphe Sepulchre’s advisor. This reports the database; it does not prove there were no additional institutional co-supervisors.",
+    "The complete displayed route is verified by direct MGP Advisor fields. It is not a continuous modern doctorate chain: the pre-Moore links include a B.A., historical school instruction and correspondence.",
+    "MGP labels Chasles (1814) and Poisson (1800) Ph.D. These historical records should be displayed with school and year plus the dashed-link legend; independently establishing modern-equivalent doctoral awards was outside scope.",
+    "The Chasles→Newton association must not be tied to Newton’s Yale B.A. date. MGP’s B.A. 1850 is degree metadata, not a verified date for studying with Chasles.",
+    "The degree label on Euler’s Basel 1726 record is blank. Lagrange’s Euler link is explicitly no degree; Lagrange’s separate B.A. 1754 belongs to Beccaria.",
+    "MGP is an ongoing, contributed database; all citations describe its records as retrieved, not independently inspected original diplomas."
+  ],
+  "additional_support": [
+    {
+      "url": "https://www.columbia.edu/~im2131/math-genealogy.html",
+      "claim": "Columbia-hosted genealogy independently reproduces the same Balakrishnan→Phillips→Hildebrandt→Moore→Newton→Chasles→Poisson→Lagrange→Euler chain."
+    },
+    {
+      "url": "https://samueli.ucla.edu/distinguished-professor-a-v-balakrishnan-1922-2015/",
+      "claim": "UCLA’s obituary confirms Balakrishnan’s mathematics Ph.D. at USC in 1954."
+    },
+    {
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chasles/",
+      "claim": "Describes Chasles entering the École Polytechnique in 1812, interruption for the defence of Paris in 1814, and subsequent return to his studies; supports conservative historical-schooling treatment."
+    }
+  ]
+}

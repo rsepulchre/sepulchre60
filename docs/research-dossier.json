@@ -1,0 +1,133 @@
+{
+  "purpose": "Read-only research and creative dossier for the Sepulchre60 ECC/CDC workshop redesign. Proposed programme, titles and design directions are recommendations, not announced event facts.",
+  "reviewed_on": "2026-09-13",
+  "scope": {
+    "method": "Broad review of the official publications index (1992 onward), talks index (2012-2026) and editorial index (2020-2024); selected paper abstracts, introductions and substantive sections; complete two-page editorials and substantial sections of the 2018 ECC/CDC slide decks. This is not a claim to have fully read every publication or watched all talks.",
+    "publications": "https://sites.google.com/site/rsepulchre/publications",
+    "talks": "https://sites.google.com/site/rsepulchre/talks",
+    "editorials": "https://sites.google.com/site/rsepulchre/home/ieee-control-systems",
+    "arc": "An enduring question is how feedback gives a system a useful form of behaviour. Constructive nonlinear design supplies the foundation; geometry shapes algorithms and collective motion; differential methods recover tractable structure; mixed feedback explains sensitivity, switching and rhythmic adaptation across scales. Recent spiking work connects these strands rather than replacing them."
+  },
+  "recommendation": {
+    "overall_title": "Forms of Feedback",
+    "honoree_line": "Rodolphe Sepulchre at 60",
+    "ecc_subtitle": "Ideas carried forward — an alumni gathering",
+    "cdc_subtitle": "Connections across control — friends and collaborators",
+    "rationale": "Forms accommodates geometry, constructed dynamics, rhythmic patterns and musical form. Feedback names the intellectual through-line. It is broad enough for both gatherings, while the subtitles distinguish transmission across generations from exchange across fields.",
+    "central_question": "How does interaction give rise to form, rhythm and adaptation?",
+    "draft_intro": "A conversation across nonlinear control, geometry, collective behaviour and biological rhythms. Two gatherings bring together the people and ideas connected by Rodolphe Sepulchre’s work: the questions we share, the paths they have opened, and what comes next.",
+    "music_grounding": "The connection to music is explicit in Sepulchre’s Clocks and Rhythms editorial: rhythmic systems are open to their environment, and musical experience depends on modulation between notes. Use this as a thread about responsiveness and listening, rather than treating music as decorative imagery.",
+    "cultural_grounding": "The love of music, Belgian identity and French intellectual ideals were supplied by the user. Treat these as design inspiration, not as newly established biographical claims. Express them through measured prose, thoughtful conversation, conviviality and a small amount of French where meaningful; avoid invented philosophical allegiances, attributed quotations or national stereotypes.",
+    "visual_direction": "An essay or chamber-music programme: warm paper, dark ink, one restrained wine-red accent, a strong serif title, generous silence around text, and a small official portrait. A sparse abstract line motif can suggest trajectories, phase and counterpoint. Research topics must retain equal visibility; avoid letting neuron imagery imply that the whole career is exclusively neuroscience.",
+    "interaction_direction": "An optional slow motif of distinct paths becoming coordinated can express interaction without forced unison. Keep it clearly abstract, provide a static reduced-motion state, and let programme and readings remain immediately usable.",
+    "optional_quote": {
+      "text": "Music is rhythmic. So is life.",
+      "attribution": "Rodolphe Sepulchre, Clocks and Rhythms, IEEE Control Systems, October 2022, p. 5",
+      "source": "https://doi.org/10.1109/MCS.2022.3187354",
+      "verification": "Read in the author-linked PDF and checked on rendered page 2. The editorial's opening Debussy epigraph was not independently authenticated; do not reuse it as an authenticated Debussy quotation."
+    }
+  },
+  "pillars": [
+    {
+      "id": "constructive",
+      "label": "Making nonlinear ideas constructive",
+      "meaning": "Geometry and analysis become practical feedback designs, with passivity and Lyapunov methods connecting stability, robustness and optimality.",
+      "reading": {"title": "Constructive Nonlinear Control", "authors": "R. Sepulchre, M. Janković, P. V. Kokotović", "year": 1997, "url": "https://link.springer.com/book/10.1007/978-1-4471-0967-9", "review_depth": "Publisher overview and contents."},
+      "programme_question": "What makes a nonlinear insight into a reusable design principle?"
+    },
+    {
+      "id": "geometry",
+      "label": "Geometry as a language for algorithms",
+      "meaning": "Respecting the shape of a search space leads to useful numerical methods, and links mathematical structure with computation.",
+      "reading": {"title": "Optimization Algorithms on Matrix Manifolds", "authors": "P.-A. Absil, R. Mahony, R. Sepulchre", "year": 2008, "url": "https://sites.uclouvain.be/absil/amsbook/", "review_depth": "Coauthor's official book page, contents and bibliography."},
+      "companion": {"title": "Manopt, a Matlab Toolbox for Optimization on Manifolds", "year": 2014, "url": "https://jmlr.org/papers/v15/boumal14a.html"},
+      "programme_question": "Which constraints become simpler when we choose the right geometry?"
+    },
+    {
+      "id": "collective",
+      "label": "Coordination without a conductor",
+      "meaning": "Relative information and coupling organize collective motion. Synchronization, balancing and geometric consensus supply a precise intellectual basis for the musical idea of an ensemble.",
+      "reading": {"title": "Stabilization of Planar Collective Motion: All-to-All Communication", "authors": "R. Sepulchre, D. A. Paley, N. E. Leonard", "year": 2007, "url": "https://doi.org/10.1109/TAC.2007.898077", "pdf": "https://naomi.princeton.edu/wp-content/uploads/sites/744/2021/03/IEEE-05-218-proofed.pdf", "verification": "Exact metadata and PDF link from coauthor Leonard's institutional publication list: https://naomi.princeton.edu/publications/"},
+      "companion": {"title": "Consensus optimization on manifolds", "authors": "A. Sarlette, R. Sepulchre", "year": 2009, "preprint_year": 2008, "url": "https://arxiv.org/abs/0811.4275", "full_text": "https://arxiv.org/html/0811.4275v1", "review_depth": "Abstract and introduction; homogeneous manifolds, synchronization and balancing with no external reference."},
+      "programme_question": "How can different agents find a common behaviour from local interaction?"
+    },
+    {
+      "id": "differential",
+      "label": "Finding simple structure in complex dynamics",
+      "meaning": "Differential methods extend tools familiar from linear control to nonlinear systems. Dominance makes low-dimensional long-term behaviour accessible to an interconnection theory.",
+      "reading": {"title": "Differential dissipativity theory for dominance analysis", "authors": "F. Forni, R. Sepulchre", "year": 2019, "publication": "IEEE Transactions on Automatic Control 64(6), 2340-2351", "url": "https://arxiv.org/abs/1710.01721", "preprint_year": 2017, "review_depth": "Abstract, selected HTML sections, and explanatory 2018 ECC slides."},
+      "companion": {"title": "A differential Lyapunov framework for contraction analysis", "year": 2014, "url": "https://arxiv.org/abs/1208.2943"},
+      "talk": {"title": "Control theory of switches and clocks", "event": "ECC 2018, Limassol, plenary lecture", "year": 2018, "url": "https://www.dropbox.com/scl/fi/sngy9bd7zzvqn6w2ue2ln/ECC2018_4pages.pdf?rlkey=38xvfzuji36on1ht167m3x0q1&dl=0", "local_pdf": "/workspace/scratch/5af480e63f49/rhythm-research/ecc2018.pdf", "review_depth": "Substantial slide text reviewed. Connects contraction, dominance, differential dissipativity and mixed feedback."},
+      "programme_question": "What can local differential structure tell us about global behaviour?"
+    },
+    {
+      "id": "scales",
+      "label": "Sensitivity and robustness across scales",
+      "meaning": "Positive and negative feedback work together. Cellular regulation shapes circuit behaviour, while switching and tuning can remain distinct design functions.",
+      "reading": {"title": "Control Across Scales by Positive and Negative Feedback", "authors": "R. Sepulchre, G. Drion, A. Franci", "year": 2019, "publication": "Annual Review of Control, Robotics, and Autonomous Systems 2, 89-113", "first_online": "2018-12-10", "url": "https://doi.org/10.1146/annurev-control-053018-023708", "review_depth": "Publisher abstract and metadata; paired CDC slides."},
+      "companion": {"title": "Cellular switches orchestrate rhythmic circuits", "authors": "G. Drion, A. Franci, R. Sepulchre", "year": 2019, "first_online": "2018-09-03", "publication": "Biological Cybernetics 113, 71-82", "url": "https://link.springer.com/article/10.1007/s00422-018-0778-6", "preprint": "https://arxiv.org/abs/1802.06700", "review_depth": "Introduction and substantial results sections. Slow negative conductance permits reconfiguration and coexistence of rhythms with fixed synaptic connectivity."},
+      "talk": {"title": "Control across scales, by positive and negative feedback", "event": "57th IEEE CDC, Miami, December 2018, semi-plenary lecture", "year": 2018, "url": "https://www.dropbox.com/scl/fi/fjl5atqb1yjtioi4uhkf2/CDC2018final_4pages.pdf?rlkey=lvfnselnsceckcgxo76mksxx2&dl=0", "local_pdf": "/workspace/scratch/5af480e63f49/rhythm-research/cdc2018.pdf", "review_depth": "Opening project narrative and main/end sections, including mixed feedback, control across scales and future questions."},
+      "programme_question": "How can a system be sensitive enough to adapt and robust enough to function?"
+    },
+    {
+      "id": "rhythms",
+      "label": "Rhythm as an open system",
+      "meaning": "Repeated events become useful through adaptation to the environment. Spiking links continuous physical dynamics with reliable event timing, extending feedback questions into new forms of computation and control.",
+      "reading": {"title": "Spiking Control Systems", "author": "R. Sepulchre", "year": 2022, "publication": "Proceedings of the IEEE 110, May 2022, 577-589", "url": "https://arxiv.org/abs/2112.03565", "full_text": "https://arxiv.org/html/2112.03565v2", "review_depth": "Abstract, structure, selected modelling and design sections; maximal monotonicity, mixed feedback, adaptation and event reliability."},
+      "editorial": {"title": "Clocks and Rhythms", "year": 2022, "month": "October", "publication": "IEEE Control Systems 42(5), 4-5", "url": "https://doi.org/10.1109/MCS.2022.3187354", "author_pdf": "https://www.dropbox.com/scl/fi/c3jv3xlqw0ctrmqc5gfj8/Issue2022-5.pdf?rlkey=c9a2jyicjihyypm13jalg9cd4&dl=0", "local_pdf": "/workspace/scratch/5af480e63f49/rhythm-research/clocks.pdf", "review_depth": "Complete editorial text read; closing musical passage visually verified."},
+      "historical_talks": [
+        {"title": "Orchestrons: neuronal rhythms as open systems", "date": "2013-03-28", "event": "32nd Benelux Meeting on Systems and Control, Houffalize, Belgium, plenary", "verified_record": "https://sites.google.com/site/rsepulchre/talks", "legacy_slides_url": "https://dl.dropboxusercontent.com/u/14920318/beneluxmeeting2013.pdf", "access_note": "Title, date and event verified in official index. Legacy slide target fails to open; do not label it as a working download."},
+        {"title": "Sync or Swing?", "date": "2018-10", "event": "5th IFAC Conference on Analysis and Control of Chaotic Systems, Eindhoven, plenary", "verified_record": "https://sites.google.com/site/rsepulchre/talks", "access_note": "Official index lists the talk but supplies no slide or recording link. Do not invent one."}
+      ],
+      "programme_question": "What changes when we design for responsive rhythms rather than isolated clocks?"
+    },
+    {
+      "id": "conversation",
+      "label": "Research as a continuing conversation",
+      "meaning": "The intellectual legacy includes how ideas travel: exposition, teaching, encounters with other scientific cultures, and sharing the process by which a research question becomes one's own.",
+      "reading": {"title": "Join the Conversation", "author": "R. Sepulchre", "year": 2020, "month": "February", "publication": "IEEE Control Systems, 3-4", "url": "https://doi.org/10.1109/MCS.2019.2950477", "author_pdf": "https://www.dropbox.com/scl/fi/w8rll5q3njfggnl27yanl/Issue2020-1.pdf?rlkey=eiplx2ma6zbouitvgfd544ovv&dl=0", "local_pdf": "/workspace/scratch/5af480e63f49/rhythm-research/conversation.pdf", "review_depth": "Complete two-page editorial text read."},
+      "programme_question": "Which question or way of thinking do we carry into the next generation?"
+    }
+  ],
+  "programme": {
+    "status": "Illustrative one-day structure; proposed topics and roles only. Eight research slots total, each 25 minutes plus 5 minutes of questions. Do not infer speaker invitations, acceptances or event logistics.",
+    "research_slot_count": 8,
+    "schedule": [
+      {"time": "09:00–09:15", "title": "Welcome: a shared question", "type": "opening"},
+      {"time": "09:15–09:45", "title": "Constructive nonlinear control", "type": "research", "slot": 1},
+      {"time": "09:45–10:15", "title": "Geometry and algorithms", "type": "research", "slot": 2},
+      {"time": "10:15–10:45", "title": "Coffee and conversation", "type": "break"},
+      {"time": "10:45–11:15", "title": "Collective motion and synchronization", "type": "research", "slot": 3},
+      {"time": "11:15–11:45", "title": "Differential methods and interconnection", "type": "research", "slot": 4},
+      {"time": "11:45–12:15", "title": "Questions carried forward", "type": "discussion", "format": "Moderated discussion of the morning's four contributions, with no additional prepared research talks."},
+      {"time": "12:15–13:30", "title": "Lunch", "type": "break"},
+      {"time": "13:30–14:00", "title": "Control across scales", "type": "research", "slot": 5},
+      {"time": "14:00–14:30", "title": "Cellular switches and rhythmic circuits", "type": "research", "slot": 6},
+      {"time": "14:30–15:00", "title": "Coffee and conversation", "type": "break"},
+      {"time": "15:00–15:30", "title": "Spiking systems and physical computation", "type": "research", "slot": 7},
+      {"time": "15:30–16:00", "title": "An open problem for the next decade", "type": "research", "slot": 8},
+      {"time": "16:00–16:45", "title": "Panel: what does feedback make possible?", "type": "panel", "format": "Four participants across fields and generations; short responses to three questions, followed by audience discussion."},
+      {"time": "16:45–17:15", "title": "Personal notes", "type": "tributes", "format": "Five or six brief tributes, with one shared photograph or recollection each."},
+      {"time": "17:15–17:30", "title": "Rodolphe's reply and close", "type": "closing"}
+    ],
+    "ecc_treatment": "Let alumni lead the eight research slots. Ask each to connect one question developed with Rodolphe to a direction they now pursue. Pair chairs across generations. Keep personal recollections in the dedicated tribute time, leaving room for substantial science.",
+    "cdc_treatment": "Let collaborators illuminate connections among the same broad themes. Ask each for one shared intellectual turning point and one unresolved question. Pair adjacent talks from different fields and invite the audience into the panel.",
+    "music": "If organisers want live music, a brief contribution at the reception or immediately after the formal close gives it a clear place without reducing research discussion. This is a format suggestion, not a claim that any performer or programme is arranged."
+  },
+  "date_corrections": [
+    "Cellular switches orchestrate rhythmic circuits: online 3 September 2018; Biological Cybernetics volume 113, pages 71-82, is 2019. Label 2019, optionally adding online 2018.",
+    "Control Across Scales by Positive and Negative Feedback: review first online 10 December 2018, volume publication May 2019. The CDC lecture is December 2018. Keep lecture and publication dates distinct.",
+    "Spiking Control Systems: 2021 arXiv submission, March 2022 revision, May 2022 journal publication.",
+    "Differential dissipativity theory for dominance analysis: 2017 preprint, 2018 revision, June 2019 journal publication. Do not use the automatically generated 2026 date displayed in experimental arXiv HTML as publication date.",
+    "Constructive Nonlinear Control: original copyright/publication year 1997; later electronic and softcover dates are editions, not the research's beginning.",
+    "Optimization Algorithms on Matrix Manifolds: 2008 in the authors' official bibliography."
+  ],
+  "portrait": {
+    "source_page": "https://www.esat.kuleuven.be/inaugurals/prof-rodolphe-sepulchre",
+    "image_url": "https://www.esat.kuleuven.be/inaugurals/image-20240402145640-1.jpeg/@@images/image-0-dd4c7a6ca247cf015c796dfeca3ac53d.jpeg",
+    "local_path": "/workspace/scratch/5af480e63f49/rhythm-research/portrait.jpg",
+    "description": "Official KU Leuven ESAT profile portrait, outdoors, grey hair, sunglasses above forehead. Visually inspected. Suitable for a modest portrait block; avoid enlarging beyond the available resolution.",
+    "source_display_size": "256 × 300",
+    "credit_note": "Source: KU Leuven ESAT. No photographer or explicit reuse licence shown on the source page."
+  }
+}

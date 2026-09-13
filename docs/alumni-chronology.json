@@ -1,0 +1,604 @@
+{
+  "checkedDate": "2026-09-13",
+  "status": "Tentative programme; speaker participation and workshop acceptance unconfirmed",
+  "orderingPolicy": "Order the 19 alumni by earliest documented year of joining Sepulchre as PhD student or postdoc. For same-year cohorts, use alphabetical surname order because exact order of arrival is not established consistently. More explicit personal career records are used for Franci and Miranda-Villatoro where they conflict with the roster. Rodolphe Sepulchre is placed last for his response and close.",
+  "publicOrderingCaption": "The proposed talks follow the year each alumnus joined Rodolphe as a PhD student or postdoc. Speakers from the same year are listed alphabetically by surname. Rodolphe closes the day.",
+  "publicDateCaveat": "Public sources differ on the start year for Alessio Franci (roster: 2011; personal biography: 2012) and Felix A. Miranda-Villatoro (roster: 2017; personal biography: March 2018). The programme uses their personal biographies.",
+  "people": [
+    {
+      "name": "Pierre-Antoine Absil",
+      "slug": "pierre-antoine-absil",
+      "earliestJoinYear": 1998,
+      "role": "PhD student",
+      "period": "1998–2003",
+      "surnameSortKey": "Absil",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://sites.uclouvain.be/absil/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "No same-year tie among these 19 alumni.",
+      "verificationNote": "Profile confirms 2003 PhD advised by Sepulchre; 1998 start is stated by Sepulchre's roster.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Renaud Ronsse",
+      "slug": "renaud-ronsse",
+      "earliestJoinYear": 2002,
+      "role": "PhD student",
+      "period": "2002–2007",
+      "surnameSortKey": "Ronsse",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://uclouvain.be/en/people/renaud.ronsse",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "No same-year tie among these 19 alumni.",
+      "verificationNote": "Profile confirms 2007 Liège PhD; 2002 start is stated by Sepulchre's roster.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Christophe Germay",
+      "slug": "christophe-germay",
+      "earliestJoinYear": 2003,
+      "role": "PhD student",
+      "period": "2003–2008",
+      "surnameSortKey": "Germay",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://epslog.com/about-us/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "No same-year tie among these 19 alumni.",
+      "verificationNote": "Start and period are from Sepulchre's roster. Company page adds no doctoral start date.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Alain Sarlette",
+      "slug": "alain-sarlette",
+      "earliestJoinYear": 2005,
+      "role": "PhD student",
+      "period": "2005–2009",
+      "surnameSortKey": "Sarlette",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://www.phys.ens.fr/fr/annuaire/10/alain-sarlette",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Alain Sarlette; Luca Scardovi. This does not claim an exact order of arrival within 2005.",
+      "verificationNote": "Start and period are from Sepulchre's roster. ENS profile adds no doctoral start date.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Luca Scardovi",
+      "slug": "luca-scardovi",
+      "earliestJoinYear": 2005,
+      "role": "Postdoc",
+      "period": "2005–2007",
+      "surnameSortKey": "Scardovi",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://www.control.utoronto.ca/~scardovi/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Alain Sarlette; Luca Scardovi. This does not claim an exact order of arrival within 2005.",
+      "verificationNote": "Personal academic profile independently lists a Liège postdoctoral fellowship in 2005–2007.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Silvère Bonnabel",
+      "slug": "silvere-bonnabel",
+      "earliestJoinYear": 2007,
+      "role": "Postdoc",
+      "period": "2007–2008",
+      "surnameSortKey": "Bonnabel",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://www.caor.minesparis.psl.eu/author/silvere-bonnabel/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Silvère Bonnabel; Alexandre Mauroy. This does not claim an exact order of arrival within 2007.",
+      "verificationNote": "Start and period are from Sepulchre's roster. Current institutional page adds no postdoctoral start date.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Alexandre Mauroy",
+      "slug": "alexandre-mauroy",
+      "earliestJoinYear": 2007,
+      "role": "PhD student",
+      "period": "2007–2011",
+      "surnameSortKey": "Mauroy",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://sites.google.com/site/alexmauroy/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Silvère Bonnabel; Alexandre Mauroy. This does not claim an exact order of arrival within 2007.",
+      "verificationNote": "Profile independently confirms Liège master's degree in 2007 and PhD in 2011; 2007 doctoral start is stated by Sepulchre's roster.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Guillaume Drion",
+      "slug": "guillaume-drion",
+      "earliestJoinYear": 2008,
+      "role": "PhD student",
+      "period": "2008–2013",
+      "surnameSortKey": "Drion",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://sites.google.com/site/gdrion25/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Guillaume Drion; Pierre Sacré. This does not claim an exact order of arrival within 2008.",
+      "verificationNote": "Start and period are from Sepulchre's roster. Current personal home page adds no doctoral start date.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Pierre Sacré",
+      "slug": "pierre-sacre",
+      "earliestJoinYear": 2008,
+      "role": "PhD student",
+      "period": "2008–2013",
+      "surnameSortKey": "Sacre",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://sites.google.com/view/psacre/about",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Guillaume Drion; Pierre Sacré. This does not claim an exact order of arrival within 2008.",
+      "verificationNote": "Profile confirms the 2013 Liège PhD with Sepulchre; 2008 start is stated by Sepulchre's roster.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Bamdev Mishra",
+      "slug": "bamdev-mishra",
+      "earliestJoinYear": 2010,
+      "role": "PhD student; later postdoc",
+      "period": "PhD 2010–2014; postdoc 2014–2015",
+      "surnameSortKey": "Mishra",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://bamdevmishra.in/resume/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "No same-year tie among these 19 alumni.",
+      "verificationNote": "Personal resume independently confirms both date ranges. Earlier undergraduate summer internships are outside the requested PhD/postdoc ordering.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Fulvio Forni",
+      "slug": "fulvio-forni",
+      "earliestJoinYear": 2011,
+      "role": "Postdoc",
+      "period": "2011–2015",
+      "surnameSortKey": "Forni",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://sites.google.com/site/fulvioforni/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "No same-year tie among these 19 alumni.",
+      "verificationNote": "Personal academic profile independently lists Liège postdoctoral work in 2011–2015.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Alessio Franci",
+      "slug": "alessio-franci",
+      "earliestJoinYear": 2012,
+      "role": "Postdoc",
+      "period": "2012–2015 (personal biography)",
+      "surnameSortKey": "Franci",
+      "sourceUrl": "https://sites.google.com/site/francialessioac/",
+      "profileSourceUrl": "https://sites.google.com/site/francialessioac/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "No same-year tie among these 19 alumni.",
+      "verificationNote": "Date discrepancy: Sepulchre's roster says 2011–2015; Franci's personal biography states a 2012 PhD and postdoctoral research during 2012–2015 at Liège, INRIA Lille and Cambridge. Use 2012 as the more explicit personal career record; exact beginning with Sepulchre remains source-disputed.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Thiago Burghi",
+      "slug": "thiago-burghi",
+      "earliestJoinYear": 2015,
+      "role": "PhD student; later postdoc",
+      "period": "PhD 2015–2019; postdoc 2019–2021 (roster periods)",
+      "surnameSortKey": "Burghi",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://www.eng.cam.ac.uk/profiles/tbb29",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Thiago Burghi; Cyrus Mostajeran. This does not claim an exact order of arrival within 2015.",
+      "verificationNote": "2015 start is stated by Sepulchre's roster. Cambridge department profile supplies no dates. Roster periods should not be treated as formal degree-award dates.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Cyrus Mostajeran",
+      "slug": "cyrus-mostajeran",
+      "earliestJoinYear": 2015,
+      "role": "PhD student; later postdoc",
+      "period": "PhD group period 2015–2017; postdoc 2018–2021 (roster periods)",
+      "surnameSortKey": "Mostajeran",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://www.cyrusmostajeran.com/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Thiago Burghi; Cyrus Mostajeran. This does not claim an exact order of arrival within 2015.",
+      "verificationNote": "Sepulchre's roster identifies 2015–2017 under former PhD students and 2018–2021 under former postdocs. Personal biography confirms the PhD with Sepulchre was awarded in 2018 and Cambridge fellowship 2018–2022. Overall Cambridge PhD enrolment preceded the roster's group period; use 2015 for joining Sepulchre rather than infer it from total enrolment.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Tom Chaffey",
+      "slug": "tom-chaffey",
+      "earliestJoinYear": 2018,
+      "role": "PhD student; later postdoc",
+      "period": "PhD 2018–2022; postdoc 2022–2024 (roster periods)",
+      "surnameSortKey": "Chaffey",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://www.tchaffey.com/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Tom Chaffey; Christian Grussler; Felix A. Miranda-Villatoro. This does not claim an exact order of arrival within 2018.",
+      "verificationNote": "Personal biography confirms PhD completed April 2022 with Sepulchre and fellowship 2022–2025. 2018 start is stated by Sepulchre's roster; roster fellowship end year differs from personal biography.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Christian Grussler",
+      "slug": "christian-grussler",
+      "earliestJoinYear": 2018,
+      "role": "Postdoc",
+      "period": "2018–2020",
+      "surnameSortKey": "Grussler",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://aerospace.technion.ac.il/person/christian-grussler/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Tom Chaffey; Christian Grussler; Felix A. Miranda-Villatoro. This does not claim an exact order of arrival within 2018.",
+      "verificationNote": "Official Technion profile independently confirms the Cambridge postdoctoral period 2018–2020.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Felix A. Miranda-Villatoro",
+      "slug": "felix-miranda-villatoro",
+      "earliestJoinYear": 2018,
+      "role": "Postdoc / Research Associate",
+      "period": "March 2018–September 2020",
+      "surnameSortKey": "Miranda-Villatoro",
+      "sourceUrl": "https://team.inria.fr/tripop/team-members/mirandavillatoro/",
+      "profileSourceUrl": "https://team.inria.fr/tripop/team-members/mirandavillatoro/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "Same-year group ordered alphabetically by surname: Tom Chaffey; Christian Grussler; Felix A. Miranda-Villatoro. This does not claim an exact order of arrival within 2018.",
+      "verificationNote": "Date discrepancy: Sepulchre's roster says 2017–2020, but Miranda-Villatoro's own Inria biography explicitly states Cambridge Research Associate March 2018–September 2020 and PhD 2018. Use the more precise 2018 personal record; 2017 is not a settled start date.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Henk van Waarde",
+      "slug": "henk-van-waarde",
+      "earliestJoinYear": 2020,
+      "role": "Postdoc",
+      "period": "2020–2021",
+      "surnameSortKey": "Waarde",
+      "sourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "profileSourceUrl": "https://henkvanwaarde.github.io/bio.html",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "No same-year tie among these 19 alumni.",
+      "verificationNote": "Personal biography independently confirms postdoctoral work during 2020–2021, first Cambridge and later ETH Zurich.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    },
+    {
+      "name": "Chao Chen",
+      "slug": "chao-chen",
+      "earliestJoinYear": 2023,
+      "role": "Postdoc",
+      "period": "July 2023–February 2025 (personal CV)",
+      "surnameSortKey": "Chen",
+      "sourceUrl": "https://cchen-hi.github.io/cv/",
+      "profileSourceUrl": "https://cchen-hi.github.io/cv/",
+      "rosterSourceUrl": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+      "tieNote": "No same-year tie among these 19 alumni.",
+      "verificationNote": "Personal CV explicitly lists the KU Leuven postdoctoral role under Sepulchre from July 2023 to February 2025. Roster gives 2023–2024; start agrees and the more detailed CV supplies the period.",
+      "participationStatus": "Proposed; participation unconfirmed"
+    }
+  ],
+  "optionalWelcome": {
+    "time": "08:50–09:00",
+    "durationMinutes": 10,
+    "title": "Welcome",
+    "people": [],
+    "note": "Optional introduction before the 09:00 programme; excluded from the 500-minute day."
+  },
+  "programme": [
+    {
+      "time": "09:00–09:20",
+      "start": "09:00",
+      "end": "09:20",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Pierre-Antoine Absil",
+      "people": [
+        "pierre-antoine-absil"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "09:20–09:40",
+      "start": "09:20",
+      "end": "09:40",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Renaud Ronsse",
+      "people": [
+        "renaud-ronsse"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "09:40–10:00",
+      "start": "09:40",
+      "end": "10:00",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Christophe Germay",
+      "people": [
+        "christophe-germay"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "10:00–10:20",
+      "start": "10:00",
+      "end": "10:20",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Alain Sarlette",
+      "people": [
+        "alain-sarlette"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "10:20–10:40",
+      "start": "10:20",
+      "end": "10:40",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Luca Scardovi",
+      "people": [
+        "luca-scardovi"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "10:40–11:00",
+      "start": "10:40",
+      "end": "11:00",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Silvère Bonnabel",
+      "people": [
+        "silvere-bonnabel"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "11:00–11:20",
+      "start": "11:00",
+      "end": "11:20",
+      "durationMinutes": 20,
+      "kind": "coffee",
+      "title": "Coffee break",
+      "people": [],
+      "detail": "",
+      "note": ""
+    },
+    {
+      "time": "11:20–11:40",
+      "start": "11:20",
+      "end": "11:40",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Alexandre Mauroy",
+      "people": [
+        "alexandre-mauroy"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "11:40–12:00",
+      "start": "11:40",
+      "end": "12:00",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Guillaume Drion",
+      "people": [
+        "guillaume-drion"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "12:00–12:20",
+      "start": "12:00",
+      "end": "12:20",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Pierre Sacré",
+      "people": [
+        "pierre-sacre"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "12:20–12:40",
+      "start": "12:20",
+      "end": "12:40",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Bamdev Mishra",
+      "people": [
+        "bamdev-mishra"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "12:40–13:40",
+      "start": "12:40",
+      "end": "13:40",
+      "durationMinutes": 60,
+      "kind": "lunch",
+      "title": "Lunch",
+      "people": [],
+      "detail": "",
+      "note": ""
+    },
+    {
+      "time": "13:40–14:00",
+      "start": "13:40",
+      "end": "14:00",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Fulvio Forni",
+      "people": [
+        "fulvio-forni"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "14:00–14:20",
+      "start": "14:00",
+      "end": "14:20",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Alessio Franci",
+      "people": [
+        "alessio-franci"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "14:20–14:40",
+      "start": "14:20",
+      "end": "14:40",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Thiago Burghi",
+      "people": [
+        "thiago-burghi"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "14:40–15:00",
+      "start": "14:40",
+      "end": "15:00",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Cyrus Mostajeran",
+      "people": [
+        "cyrus-mostajeran"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "15:00–15:20",
+      "start": "15:00",
+      "end": "15:20",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Tom Chaffey",
+      "people": [
+        "tom-chaffey"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "15:20–15:40",
+      "start": "15:20",
+      "end": "15:40",
+      "durationMinutes": 20,
+      "kind": "coffee",
+      "title": "Coffee break",
+      "people": [],
+      "detail": "",
+      "note": ""
+    },
+    {
+      "time": "15:40–16:00",
+      "start": "15:40",
+      "end": "16:00",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Christian Grussler",
+      "people": [
+        "christian-grussler"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "16:00–16:20",
+      "start": "16:00",
+      "end": "16:20",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Felix A. Miranda-Villatoro",
+      "people": [
+        "felix-miranda-villatoro"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "16:20–16:40",
+      "start": "16:20",
+      "end": "16:40",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Henk van Waarde",
+      "people": [
+        "henk-van-waarde"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "16:40–17:00",
+      "start": "16:40",
+      "end": "17:00",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Chao Chen",
+      "people": [
+        "chao-chen"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Proposed contribution; talk title to be announced."
+    },
+    {
+      "time": "17:00–17:20",
+      "start": "17:00",
+      "end": "17:20",
+      "durationMinutes": 20,
+      "kind": "talk",
+      "title": "Rodolphe Sepulchre · response and close",
+      "people": [
+        "rodolphe-sepulchre"
+      ],
+      "detail": "15-minute talk + 5 minutes for questions",
+      "note": "Honoree's proposed contribution; placed last as the explicit exception to alumni chronology."
+    }
+  ],
+  "totals": {
+    "alumniTalks": 19,
+    "honoreeTalks": 1,
+    "talks": 20,
+    "minutesPerTalk": 20,
+    "talkMinutes": 15,
+    "questionMinutes": 5,
+    "totalTalkMinutes": 400,
+    "coffeeBreaks": 2,
+    "coffeeMinutesEach": 20,
+    "lunchBreaks": 1,
+    "lunchMinutes": 60,
+    "totalMinutes": 500,
+    "start": "09:00",
+    "end": "17:20"
+  },
+  "rantzerfestReference": {
+    "url": "https://people.kth.se/~mikaelj/rantzer_fest/index.html",
+    "observedStructure": "One page with workshop title, smaller birthday subtitle, one short topic paragraph, speakers with portrait/name/affiliation, chronological schedule with times and talk titles, simple coffee/lunch rows, and organizers with portrait/name/affiliation.",
+    "sectionOrder": [
+      "Intro",
+      "Speakers",
+      "Workshop schedule",
+      "Organizers"
+    ],
+    "designLimit": "Content/heading hierarchy verified via web extraction. Raw CSS, font sizes, grid dimensions, colors and rendered layout were not inspected; do not present unverified styling values as facts."
+  }
+}

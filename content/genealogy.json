@@ -1,0 +1,461 @@
+{
+  "introduction": "Two selected paths through the Mathematics Genealogy Project: mathematical training on the left, and medical and intellectual roots reached through postdoctoral mentorship on the right. Read from the earlier generations down to Rodolphe; expand a group to see every intermediate name.",
+  "panels": [
+    {
+      "title": "Mathematics",
+      "subtitle": "Doctoral ancestry through Dirk Aeyels",
+      "groups": [
+        {
+          "entries": [
+            {
+              "id": "38586",
+              "name": "Leonhard Euler",
+              "url": "https://www.mathgenealogy.org/id.php?id=38586",
+              "meta": "Basel · 1726 (MGP record)",
+              "kind": "historical",
+              "edgeLabel": "Correspondence, not a degree",
+              "edgeUrl": "https://www.mathgenealogy.org/id.php?id=17864"
+            },
+            {
+              "id": "17864",
+              "name": "Joseph-Louis Lagrange",
+              "url": "https://www.mathgenealogy.org/id.php?id=17864",
+              "meta": "Correspondence with Euler",
+              "kind": "historical"
+            },
+            {
+              "id": "17865",
+              "name": "Siméon-Denis Poisson",
+              "url": "https://www.mathgenealogy.org/id.php?id=17865",
+              "meta": "École Polytechnique · 1800",
+              "kind": "historical",
+              "shortName": "Poisson",
+              "otherParent": {
+                "name": "Pierre-Simon Laplace",
+                "url": "https://www.mathgenealogy.org/id.php?id=108295",
+                "meta": "A separate teaching branch in MGP"
+              }
+            },
+            {
+              "id": "26995",
+              "name": "Michel Chasles",
+              "url": "https://www.mathgenealogy.org/id.php?id=26995",
+              "meta": "École Polytechnique · 1814",
+              "kind": "historical"
+            },
+            {
+              "id": "7865",
+              "name": "Hubert Anson Newton",
+              "url": "https://www.mathgenealogy.org/id.php?id=7865",
+              "meta": "B.A. · Yale · 1850",
+              "kind": "doctoral",
+              "note": "Chasles link: later study, not supervision of this B.A."
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "title": "Five generations · E. H. Moore to David Elliott",
+          "entries": [
+            {
+              "id": "806",
+              "name": "E. H. Moore",
+              "url": "https://www.mathgenealogy.org/id.php?id=806",
+              "meta": "Ph.D. · Yale · 1885",
+              "kind": "doctoral"
+            },
+            {
+              "id": "5891",
+              "name": "T. H. Hildebrandt",
+              "url": "https://www.mathgenealogy.org/id.php?id=5891",
+              "meta": "Ph.D. · Chicago · 1910",
+              "kind": "doctoral"
+            },
+            {
+              "id": "5207",
+              "name": "Ralph S. Phillips",
+              "url": "https://www.mathgenealogy.org/id.php?id=5207",
+              "meta": "Ph.D. · Michigan · 1939",
+              "kind": "doctoral"
+            },
+            {
+              "id": "43603",
+              "name": "A. V. Balakrishnan",
+              "url": "https://www.mathgenealogy.org/id.php?id=43603",
+              "meta": "Ph.D. · USC · 1954",
+              "kind": "doctoral"
+            },
+            {
+              "id": "16951",
+              "name": "David L. Elliott",
+              "url": "https://www.mathgenealogy.org/id.php?id=16951",
+              "meta": "Ph.D. · UCLA · 1969",
+              "kind": "doctoral"
+            }
+          ]
+        },
+        {
+          "entries": [
+            {
+              "id": "137302",
+              "name": "Dirk Aeyels",
+              "url": "https://www.mathgenealogy.org/id.php?id=137302",
+              "meta": "D.Sc. · Washington University · 1978",
+              "kind": "doctoral"
+            }
+          ]
+        }
+      ],
+      "finalRelation": "Doctoral supervision · 1994",
+      "finalSource": "https://www.mathgenealogy.org/id.php?id=103842",
+      "context": "A selected mathematical branch through Aeyels. Earlier links include teaching and correspondence; they do not all represent doctoral supervision."
+    },
+    {
+      "title": "Medicine & physiology",
+      "subtitle": "Postdoctoral mentorship and intellectual ancestry",
+      "context": "This follows Kokotović’s MGP ancestry into medicine and earlier scholarship. Medieval teacher links are historical attributions; the Bahmanyār–Khayyam connection is explicitly uncertain.",
+      "groups": [
+        {
+          "entries": [
+            {
+              "id": "298616",
+              "name": "Avicenna (Ibn Sīnā)",
+              "url": "https://www.mathgenealogy.org/id.php?id=298616",
+              "meta": "Medicine & philosophy · d. 1037",
+              "kind": "historical",
+              "note": "Abū ʿAlī al-Ḥusayn ibn Sīnā"
+            },
+            {
+              "id": "287468",
+              "name": "Bahmanyār ibn al-Marzubān",
+              "url": "https://www.mathgenealogy.org/id.php?id=287468",
+              "meta": "Philosopher · Avicenna’s disciple",
+              "kind": "historical",
+              "edgeLabel": "Possible teacher · historically uncertain",
+              "edgeUrl": "https://plato.stanford.edu/entries/umar-khayyam/"
+            },
+            {
+              "id": "295739",
+              "name": "Omar Khayyam",
+              "url": "https://www.mathgenealogy.org/id.php?id=295739",
+              "meta": "Mathematics, astronomy & philosophy",
+              "kind": "historical"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "title": "14 scholars · Persian, Byzantine and humanist scholarship",
+          "entries": [
+            {
+              "id": "287466",
+              "name": "Sharaf al-Din al-Masudi al-Marwazi",
+              "url": "https://www.mathgenealogy.org/id.php?id=287466",
+              "meta": "Recorded teacher · philosophy",
+              "kind": "historical"
+            },
+            {
+              "id": "223724",
+              "name": "Kamal al-Din Ibn Yunus",
+              "url": "https://www.mathgenealogy.org/id.php?id=223724",
+              "meta": "Recorded teacher · mathematics",
+              "kind": "historical"
+            },
+            {
+              "id": "217509",
+              "name": "Nasir al-Dīn al-Ṭūsī",
+              "url": "https://www.mathgenealogy.org/id.php?id=217509",
+              "meta": "Recorded teacher · astronomy & philosophy",
+              "kind": "historical"
+            },
+            {
+              "id": "204293",
+              "name": "Shams al-Dīn al-Bukhārī",
+              "url": "https://www.mathgenealogy.org/id.php?id=204293",
+              "meta": "Recorded teacher · astronomy",
+              "kind": "historical"
+            },
+            {
+              "id": "201288",
+              "name": "Gregory Chioniades",
+              "url": "https://www.mathgenealogy.org/id.php?id=201288",
+              "meta": "Physician & astronomer · c. 1300",
+              "kind": "historical"
+            },
+            {
+              "id": "184632",
+              "name": "Manuel Bryennios",
+              "url": "https://www.mathgenealogy.org/id.php?id=184632",
+              "meta": "Recorded teacher · astronomy",
+              "kind": "historical"
+            },
+            {
+              "id": "184631",
+              "name": "Theodore Metochites",
+              "url": "https://www.mathgenealogy.org/id.php?id=184631",
+              "meta": "Recorded teacher · astronomy",
+              "kind": "historical"
+            },
+            {
+              "id": "176844",
+              "name": "Gregory Palamas",
+              "url": "https://www.mathgenealogy.org/id.php?id=176844",
+              "meta": "Recorded teacher/influence · Byzantine theology",
+              "kind": "historical"
+            },
+            {
+              "id": "146365",
+              "name": "Nilos Kabasilas",
+              "url": "https://www.mathgenealogy.org/id.php?id=146365",
+              "meta": "Recorded teacher · Byzantine theology",
+              "kind": "historical"
+            },
+            {
+              "id": "134780",
+              "name": "Demetrios Kydones",
+              "url": "https://www.mathgenealogy.org/id.php?id=134780",
+              "meta": "Recorded teacher · Byzantine scholarship",
+              "kind": "historical"
+            },
+            {
+              "id": "135185",
+              "name": "Manuel Chrysoloras",
+              "url": "https://www.mathgenealogy.org/id.php?id=135185",
+              "meta": "Recorded teacher · Greek learning",
+              "kind": "historical"
+            },
+            {
+              "id": "134931",
+              "name": "Guarino da Verona",
+              "url": "https://www.mathgenealogy.org/id.php?id=134931",
+              "meta": "Recorded teacher · humanism",
+              "kind": "historical"
+            },
+            {
+              "id": "134873",
+              "name": "Vittorino da Feltre",
+              "url": "https://www.mathgenealogy.org/id.php?id=134873",
+              "meta": "Recorded teacher · humanism",
+              "kind": "historical"
+            },
+            {
+              "id": "149192",
+              "name": "Ognibene Bonisoli da Lonigo",
+              "url": "https://www.mathgenealogy.org/id.php?id=149192",
+              "meta": "Recorded teacher · humanism",
+              "kind": "historical"
+            }
+          ]
+        },
+        {
+          "entries": [
+            {
+              "id": "127166",
+              "name": "Niccolò Leoniceno",
+              "url": "https://www.mathgenealogy.org/id.php?id=127166",
+              "meta": "Medicine & classical learning",
+              "kind": "doctoral"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "title": "10 generations · medicine at Padua, Basel and Tübingen",
+          "entries": [
+            {
+              "id": "152904",
+              "name": "Giovanni Battista della Monte",
+              "url": "https://www.mathgenealogy.org/id.php?id=152904",
+              "meta": "Medicine · Ferrara",
+              "kind": "doctoral"
+            },
+            {
+              "id": "152906",
+              "name": "Bassiano Landi",
+              "url": "https://www.mathgenealogy.org/id.php?id=152906",
+              "meta": "Medicinae Dr. · Padua · 1542",
+              "kind": "doctoral"
+            },
+            {
+              "id": "125148",
+              "name": "Theodor Zwinger",
+              "url": "https://www.mathgenealogy.org/id.php?id=125148",
+              "meta": "Medicinae Dr. · Padua · 1559",
+              "kind": "doctoral"
+            },
+            {
+              "id": "125048",
+              "name": "Johannes Nicolaus Stupanus",
+              "url": "https://www.mathgenealogy.org/id.php?id=125048",
+              "meta": "Medicinae Dr. · Basel · 1569",
+              "kind": "doctoral"
+            },
+            {
+              "id": "182088",
+              "name": "Johann Jakob von Brunn",
+              "url": "https://www.mathgenealogy.org/id.php?id=182088",
+              "meta": "Medicinae Dr. · Basel · 1615",
+              "kind": "doctoral"
+            },
+            {
+              "id": "123974",
+              "name": "Georg Balthasar Metzger",
+              "url": "https://www.mathgenealogy.org/id.php?id=123974",
+              "meta": "Medicinae Dr. · Basel · 1650",
+              "kind": "doctoral"
+            },
+            {
+              "id": "76481",
+              "name": "Elias Rudolph Camerarius Sr.",
+              "url": "https://www.mathgenealogy.org/id.php?id=76481",
+              "meta": "Medicinae Dr. · Tübingen · 1663",
+              "kind": "doctoral"
+            },
+            {
+              "id": "76482",
+              "name": "Elias Rudolph Camerarius Jr.",
+              "url": "https://www.mathgenealogy.org/id.php?id=76482",
+              "meta": "Medicinae Dr. · Tübingen · 1691",
+              "kind": "doctoral"
+            },
+            {
+              "id": "76483",
+              "name": "Burchard David Mauchart",
+              "url": "https://www.mathgenealogy.org/id.php?id=76483",
+              "meta": "Medicine · Tübingen · 1722",
+              "kind": "doctoral"
+            },
+            {
+              "id": "76484",
+              "name": "Philipp Friedrich Gmelin",
+              "url": "https://www.mathgenealogy.org/id.php?id=76484",
+              "meta": "M.D. · Tübingen · 1742",
+              "kind": "doctoral"
+            }
+          ]
+        },
+        {
+          "entries": [
+            {
+              "id": "76485",
+              "name": "Johann Friedrich Gmelin",
+              "url": "https://www.mathgenealogy.org/id.php?id=76485",
+              "meta": "M.D. · Tübingen · 1768",
+              "kind": "doctoral"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "title": "Six generations · chemistry and physics",
+          "entries": [
+            {
+              "id": "123979",
+              "name": "Friedrich Stromeyer",
+              "url": "https://www.mathgenealogy.org/id.php?id=123979",
+              "meta": "Philosophiae Dr. · Göttingen · 1800",
+              "kind": "historical",
+              "edgeLabel": "Recorded academic mentorship"
+            },
+            {
+              "id": "123999",
+              "name": "Eilhard Mitscherlich",
+              "url": "https://www.mathgenealogy.org/id.php?id=123999",
+              "meta": "Chemistry · recorded adviser link",
+              "kind": "doctoral"
+            },
+            {
+              "id": "123978",
+              "name": "Heinrich Gustav Magnus",
+              "url": "https://www.mathgenealogy.org/id.php?id=123978",
+              "meta": "Philosophiae Dr. · Berlin · 1827",
+              "kind": "doctoral"
+            },
+            {
+              "id": "124283",
+              "name": "Georg Hermann Quincke",
+              "url": "https://www.mathgenealogy.org/id.php?id=124283",
+              "meta": "Dr. phil. · Berlin · 1858",
+              "kind": "doctoral"
+            },
+            {
+              "id": "124194",
+              "name": "Karl Ferdinand Braun",
+              "url": "https://www.mathgenealogy.org/id.php?id=124194",
+              "meta": "Dr. phil. · Berlin · 1872",
+              "kind": "doctoral"
+            },
+            {
+              "id": "61599",
+              "name": "Leonid Mandelstam",
+              "url": "https://www.mathgenealogy.org/id.php?id=61599",
+              "meta": "Dr. phil. · Strasbourg · 1901",
+              "kind": "doctoral"
+            }
+          ]
+        },
+        {
+          "entries": [
+            {
+              "id": "118323",
+              "name": "Aleksandr Andronov",
+              "url": "https://www.mathgenealogy.org/id.php?id=118323",
+              "meta": "Ph.D. · Moscow · 1929",
+              "kind": "doctoral"
+            },
+            {
+              "id": "49257",
+              "name": "Alexander Feldbaum",
+              "url": "https://www.mathgenealogy.org/id.php?id=49257",
+              "meta": "Doktor nauk · 1949",
+              "kind": "doctoral"
+            },
+            {
+              "id": "4785",
+              "name": "Petar Kokotović",
+              "url": "https://www.mathgenealogy.org/id.php?id=4785",
+              "meta": "Postdoctoral mentor · UCSB",
+              "kind": "doctoral"
+            }
+          ]
+        }
+      ],
+      "finalRelation": "Postdoctoral mentorship · UCSB · 1994–1996",
+      "finalSource": "https://link.springer.com/content/pdf/bfm:978-1-4471-0967-9/1"
+    }
+  ],
+  "notes": [
+    "The two branches meet at Rodolphe: his PhD advisor Dirk Aeyels on the left, and his postdoctoral mentor Petar Kokotović on the right. The postdoctoral link is documented in the preface to Constructive Nonlinear Control; older edges follow Mathematics Genealogy Project (MGP) records.",
+    "The mathematical branch reaches Euler through his correspondence with Lagrange. Laplace is a separate teacher of Poisson, not a descendant of Euler in this selected tree. Chasles and Poisson are shown with their historical schooling rather than modern-equivalent doctorate claims; Newton’s Yale B.A. date is not the date of his later study with Chasles.",
+    "The right branch passes through medical degree records at Tübingen, Basel and Padua. The medicine and physiology heading identifies the historical disciplinary root; the lineage also includes chemists, physicists, philosophers and astronomers.",
+    "From the Renaissance toward Avicenna, the chain records earlier teachers and intellectual associations. It is not a proven uninterrupted chain of doctoral supervision. The Stanford Encyclopedia of Philosophy describes Khayyam’s study with Bahmanyār as possible, and this link is marked uncertain even in the compact view.",
+    "Mitscherlich’s link with Stromeyer is marked as recorded academic mentorship. Leoniceno’s link to Bonisoli belongs to earlier schooling, not to his medical doctorate. MGP also lists Tsypkin as a mentor of Kokotović; this selected route follows Feldbaum. Andronov was an opponent in Tsypkin’s record and is not shown as Tsypkin’s supervisor.",
+    "These are selected routes in a contributed database, checked in September 2026. Every displayed name links to its MGP record; older historical associations have not all been independently established from original manuscripts."
+  ],
+  "sources": [
+    {
+      "label": "Rodolphe Sepulchre — MGP record",
+      "url": "https://www.mathgenealogy.org/id.php?id=103842"
+    },
+    {
+      "label": "Petar Kokotović — MGP record",
+      "url": "https://www.mathgenealogy.org/id.php?id=4785"
+    },
+    {
+      "label": "Postdoctoral work — Constructive Nonlinear Control, preface p. vi",
+      "url": "https://link.springer.com/content/pdf/bfm:978-1-4471-0967-9/1"
+    },
+    {
+      "label": "Omar Khayyam — Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/umar-khayyam/"
+    },
+    {
+      "label": "Poisson — MacTutor historical biography",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poisson/"
+    },
+    {
+      "label": "Lagrange — MacTutor historical biography",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/"
+    }
+  ]
+}

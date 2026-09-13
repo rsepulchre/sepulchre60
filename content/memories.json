@@ -1,0 +1,33 @@
+{
+  "photos": [
+    {
+      "id": "willems-liege-2010",
+      "caption": "Rodolphe with Jan Willems and Bernard Rentier at Willems’s honorary doctorate ceremony, University of Liège.",
+      "date": "2010-10-16",
+      "dateLabel": "16 October 2010",
+      "sourcePage": "https://homes.esat.kuleuven.be/~sistawww/smc/jwillems/Curriculum.html",
+      "imageUrl": "https://homes.esat.kuleuven.be/~sistawww/smc/jwillems/Photos/dhc.jpg",
+      "credit": "Jan C. Willems archive, KU Leuven ESAT. Photographer not stated.",
+      "notes": "Official KU Leuven-hosted academic archive caption explicitly names Rodolphe Sepulchre, Jan Willems, and Bernard Rentier and dates the ceremony 16 October 2010. Image inspected: three people in academic dress at ceremony backdrop; corresponds to named source caption. Original is only 340 × 227 px. Downloaded unchanged. No explicit reuse license located. Label as From the public archive; this is not a contributed friends recollection.",
+      "width": 340,
+      "height": 227,
+      "asset": "assets/memories/willems-liege-2010.jpg",
+      "title": "Liège · 16 October 2010"
+    },
+    {
+      "id": "sidney-sussex-2015",
+      "caption": "Rodolphe and Bamdev Mishra at Sidney Sussex College, Cambridge.",
+      "date": "2015",
+      "dateLabel": "2015",
+      "sourcePage": "https://bamdevmishra.in/photos/",
+      "imageUrl": "https://bamdevmishra.in/wp-content/uploads/2015/09/2015-02-18-22-17-40.jpg",
+      "credit": "Bamdev Mishra’s public academic photo archive. Photographer not stated.",
+      "notes": "Bamdev Mishra’s own photo-page caption explicitly identifies Rodolphe Sepulchre at Sidney Sussex College, Cambridge University, UK, in 2015. Image inspected: two men in academic gowns in college interior. Only year shown in caption; file name and EXIF report 18 February 2015 but exact date is not asserted in the public caption. Original downloaded unchanged. No explicit reuse license located. This is an archival photograph, not a newly contributed friends recollection.",
+      "width": 2048,
+      "height": 1536,
+      "asset": "assets/memories/sidney-sussex-2015.jpg",
+      "title": "Sidney Sussex, Cambridge · 2015"
+    }
+  ],
+  "contributions": []
+}
