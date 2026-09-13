@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sepulchre 60 — Rodolphe Sepulchre at sixty
 
 A plain static website for two proposed birthday workshops and two commemorative collections. The design follows the restrained academic structure of Anders Rantzer’s 60th-birthday workshop: centred headings, a short introduction, circular portraits, and a chronological programme.
@@ -49,3 +50,6 @@ Source dossiers in `docs/` retain research provenance, genealogy records, chrono
 - https://sites.google.com/site/rsepulchre/phds-postdocs
 - https://ecc27.euca-ecc.org/call-for-papers/
 - https://www.abreuevents.com/CDC_2027-42175.aspx
+=======
+# sepulchre60
+>>>>>>> 455db6073c2b9c4085c33ef22e1b9cc06f9ea436
