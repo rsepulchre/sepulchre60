@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fulvio Forni",
+    "slug": "fulvio-forni",
+    "affiliation": "University of Cambridge",
+    "profileUrl": "https://sites.google.com/site/fulvioforni/",
+    "relationshipSource": "https://sites.google.com/site/rsepulchre/phds-postdocs",
+    "portrait": "assets/portraits/fulvio-forni.jpg",
+    "portraitPageUrl": "https://newn.cam.ac.uk/person/fulvio-forni",
+    "portraitCredit": "Newnham College, University of Cambridge; photographer not stated"
+  },
+  {
+    "name": "Brayan Shali",
+    "slug": "brayan-shali",
+    "affiliation": "KU Leuven",
+    "profileUrl": "https://be.linkedin.com/in/brayan-shali-503830108",
+    "portrait": "assets/portraits/brayan-shali.jpg",
+    "portraitPageUrl": "https://www.esat.kuleuven.be/stadius/stadiusincludes/person.php?id=2568",
+    "portraitUrl": "https://homes.esat.kuleuven.be/~sistawww/it/stadiusdb/img/individuals/brayan.jpeg",
+    "portraitCredit": "Brayan Shali / KU Leuven STADIUS profile; photographer not stated",
+    "notes": "Original official profile portrait, downloaded unchanged. LinkedIn profile verified, but LinkedIn blocked photo retrieval (HTTP 999); used the official KU Leuven portrait instead. Sources checked 2026-09-13."
+  },
+  {
+    "name": "Guanchun Tong",
+    "slug": "guanchun-tong",
+    "affiliation": "KU Leuven",
+    "profileUrl": "https://www.kuleuven.be/wieiswie/en/person/00165102",
+    "portrait": "assets/portraits/guanchun-tong.png",
+    "portraitCredit": "Photograph supplied by Guanchun Tong",
+    "notes": "Original user-supplied yangtuo-tgc.png, copied without bitmap editing."
+  }
+]

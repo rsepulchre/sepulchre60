@@ -29,3 +29,16 @@
 @media(max-width:900px){.site-header{flex-direction:column;gap:16px}.site-header nav{justify-content:center}.brand{padding:0}.workshop-layout{grid-template-columns:minmax(0,1fr) 170px;gap:25px}.ice-fire-circle{width:170px}.workshop-list dl>div{grid-template-columns:160px minmax(0,1fr);gap:20px}.descendant-branches{gap:30px}.descendant-list{gap:13px 15px}}
 @media(max-width:650px){.workshop-layout{grid-template-columns:1fr;gap:17px;margin-top:34px}.ice-fire-circle{width:160px;grid-row:2}.workshop-list dl>div{grid-template-columns:135px minmax(0,1fr);gap:18px}.workshop-list dt{font-size:.9rem}.workshop-list dd{font-size:.9rem}.workshop-theme{font-size:.73rem}.honoree-quote figcaption{font-size:1rem}.descendant-branches{grid-template-columns:1fr;gap:25px}.current-descendants{min-height:0}.descendant-branches:before,.descendant-branch:before,.research-descendants:before{display:none}.descendant-branch{padding-top:12px;border-top:1px solid var(--line)}.descendant-branch>h2{text-align:left}.research-descendants{padding-top:10px}}
 @media print{.workshop-layout{grid-template-columns:1fr 150px}.ice-fire-circle{width:150px}.descendant-list{font-size:9pt}.descendant-list li{break-inside:avoid}}
+
+/* Anchor the simulated peak to the center of “60” at every title size. */
+.home-masthead{--staff-height:72px;--staff-width:min(1104px,calc(100vw - 56px))}
+.home-masthead-content{overflow:hidden}
+.home-age{position:relative;display:inline-block}
+.home-spike{position:absolute;top:calc(100% + 30px);left:50%;width:var(--staff-width);max-width:none;height:var(--staff-height);transform:translateX(-50%);overflow:visible;pointer-events:none}
+.home-masthead .staff svg{display:block;width:100%;height:var(--staff-height)}
+.organizers{padding-top:38px;padding-bottom:8px;margin-top:24px}
+.organizers h2{text-align:center}
+.organizer-grid{grid-template-columns:repeat(3,minmax(0,1fr));max-width:780px;margin:30px auto 0}
+@media(max-width:760px){.home-masthead{--staff-height:59px;--staff-width:calc(100vw - 42px)}}
+@media(max-width:540px){.home-masthead{--staff-height:48px}.organizer-grid{grid-template-columns:1fr;gap:30px}.organizers{padding-top:28px}}
+@media print{.home-spike{display:none}.organizers{break-inside:avoid}.organizer-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sepulchre 60 — Rodolphe Sepulchre at sixty
 
 A plain static website for two proposed birthday workshops and two commemorative collections. The design follows the restrained academic structure of Anders Rantzer’s 60th-birthday workshop: centred headings, a short introduction, circular portraits, and a chronological programme.
@@ -33,15 +32,17 @@ Festschrift provides an editorial introduction, background bibliography and manu
 
 `content/workshops.json` contains event facts, profiles and schedules. `content/genealogy.json` contains the displayed trees and source notes. `content/memories.json` contains archive photographs. `content/research.json` supplies the background bibliography. Edit these and run `node scripts/render.mjs`. Node is an optional authoring dependency only. Every generated HTML page can also be edited directly, though regeneration overwrites such edits. `dist/assets/style.css` controls the design.
 
+`content/organizers.json` supplies the shared organizer section at the end of both workshop homepages: Fulvio Forni, Brayan Shali and Guanchun Tong. Guanchun’s original supplied photograph and Brayan’s official KU Leuven portrait are stored locally, with provenance recorded in this file and on Sources & credits. LinkedIn blocked retrieval of Brayan’s photo, so his official academic portrait is used alongside his LinkedIn profile link.
+
 For schedule entries use `time`, `kind` (`talk` or `break`), `person` (profile slug), `title`, and optional `breakType` (`coffee` or `lunch`). Speaker profiles include `joinYear` and `joinRole` for chronology. New portrait assets should have real public or supplied provenance and accompanying credits.
 
 ## Banner
 
-The recurring banner is a simulated classical Hodgkin–Huxley action potential on five musical staff lines. `dist/assets/hh-model.json` records equations, units, parameters, stimulus, numerical checks and primary sources; `hh-trace.csv` contains the data. `scripts/generate_hh_staff.py` preserves the computation. It is a simulated illustration, not experimental data. The homepage pairs Rodolphe’s portrait with his verified line “Music is rhythmic. So is life.”, linked to *Clocks and Rhythms* (2022). An original generated ICE/FIRE brush circle sits to the right of the workshop list on desktop, with separate ice-blue and fire-orange brushstrokes. Original public portrait and archive photos are preserved without bitmap editing.
+The recurring banner is a simulated classical Hodgkin–Huxley action potential on five musical staff lines. `dist/assets/hh-model.json` records equations, units, parameters, stimulus, numerical checks and primary sources; `hh-trace.csv` contains the data. `scripts/generate_hh_staff.py` preserves the computation. It is a simulated illustration, not experimental data. On the homepage, the spike peak is anchored to the centre of “60” as the title size changes; the renderer reuses the simulated waveform and extends only its resting baseline for clipping. The homepage pairs Rodolphe’s portrait with his verified line “Music is rhythmic. So is life.”, linked to *Clocks and Rhythms* (2022). An original generated ICE/FIRE brush circle sits to the right of the workshop list on desktop, with separate ice-blue and fire-orange brushstrokes. Original public portrait and archive photos are preserved without bitmap editing.
 
 ## Planning facts
 
-ECC’s announced workshop day is 13 July 2027, Brussels; workshop acceptance is pending. CDC’s overall event is announced for 13–17 December 2027, Lisbon; the exact birthday workshop day remains unconfirmed. Workshop room, registration, organisers and contact details need confirmed information. The current hosted site retains its existing audience and stable URL.
+ECC’s announced workshop day is 13 July 2027, Brussels; workshop acceptance is pending. CDC’s overall event is announced for 13–17 December 2027, Lisbon; the exact birthday workshop day remains unconfirmed. Workshop room, registration and contact details need confirmed information. The current hosted site retains its existing audience and stable URL.
 
 Source dossiers in `docs/` retain research provenance, genealogy records, chronological caveats and archive-photo captions. Key references:
 
@@ -50,6 +51,3 @@ Source dossiers in `docs/` retain research provenance, genealogy records, chrono
 - https://sites.google.com/site/rsepulchre/phds-postdocs
 - https://ecc27.euca-ecc.org/call-for-papers/
 - https://www.abreuevents.com/CDC_2027-42175.aspx
-=======
-# sepulchre60
->>>>>>> 455db6073c2b9c4085c33ef22e1b9cc06f9ea436
