@@ -728,14 +728,21 @@
           "detail": "25-minute talk + 5 minutes for questions"
         },
         {
-          "time": "18:10–19:10",
+          "time": "18:10–18:40",
+          "kind": "talk",
+          "person": "malcolm-smith",
+          "title": "",
+          "detail": "25-minute talk + 5 minutes for questions"
+        },
+        {
+          "time": "18:40–19:40",
           "kind": "panel",
           "person": null,
           "title": "Panel discussion",
           "detail": "Panelists and moderator to be announced. Includes audience questions."
         },
         {
-          "time": "19:10–19:40",
+          "time": "19:40–20:10",
           "kind": "talk",
           "person": "rodolphe-sepulchre",
           "title": "Response and close",
@@ -952,11 +959,25 @@
           "portraitUrl": "https://people.montefiore.uliege.be/lwh/L.Wehenkel.jpg",
           "portraitCredit": "Louis Wehenkel / University of Liège personal homepage; photographer not specified",
           "notes": "Original headshot downloaded unchanged from the official personal homepage, with alt text Louis Wehenkel. This is an older, undated photograph. The homepage confirms University of Liège affiliation and research interests. Proposed speaker; participation unconfirmed. Sources checked 2026-09-15."
+        },
+        {
+          "name": "Malcolm Smith",
+          "slug": "malcolm-smith",
+          "affiliation": "University of Cambridge",
+          "focus": "Robust control, passivity and network synthesis",
+          "relationship": "Research affinity · robust and passive control",
+          "profileUrl": "https://www.eng.cam.ac.uk/profiles/mcs1000",
+          "relationshipSource": "https://www.eng.cam.ac.uk/profiles/mcs1000",
+          "portrait": "assets/portraits/malcolm-smith.jpg",
+          "portraitPageUrl": "https://www.eng.cam.ac.uk/profiles/mcs1000",
+          "portraitUrl": "https://www.eng.cam.ac.uk/sites/www.eng.cam.ac.uk/files/uploads/profiles/images/mcs1000_1.jpg",
+          "portraitCredit": "University of Cambridge Department of Engineering profile; photographer not specified",
+          "notes": "Official Cambridge profile identifies Malcolm Smith as Professor of Control Engineering and Head of the Control Group. The original image underlying the profile thumbnail was downloaded unchanged. Proposed speaker; participation unconfirmed. Sources checked 2026-09-15."
         }
       ],
       "shortDescription": "An exchange across disciplines: the collaborations and conversations that give feedback new forms.",
       "speakerDescription": "Collaborators and fellow researchers whose work meets Rodolphe’s across geometry, nonlinear control, collective dynamics and biological regulation.",
-      "programmeDescription": "Fifteen collaborator contributions, a one-hour panel discussion, and Rodolphe’s closing response, from 09:00 to 19:40. Each of the sixteen 30-minute talk slots includes a 25-minute talk and 5 minutes for questions. Two 20-minute coffee breaks and a one-hour lunch are included. The running order is provisional; panelists and moderator are to be announced.",
+      "programmeDescription": "Sixteen collaborator contributions, a one-hour panel discussion, and Rodolphe’s closing response, from 09:00 to 20:10. Each of the seventeen 30-minute talk slots includes a 25-minute talk and 5 minutes for questions. Two 20-minute coffee breaks and a one-hour lunch are included. The running order is provisional; panelists and moderator are to be announced.",
       "audience": "Collaborators and fellow researchers",
       "displayName": "FIRE @ CDC 2027",
       "talkMinutes": 25,

@@ -10,13 +10,13 @@ Open `dist/index.html` locally, or copy the contents of `dist/` to any static we
 
 The site has five main buttons: Home, ECC, CDC, Festschrift and Liber amicorum. Each workshop has three buttons: Home, Academic tree and Programme.
 
-The ECC home combines logistics and 22 linked portraits: 21 alumni plus Rodolphe, arranged in five columns on desktop. The grid adapts to smaller screens. The CDC home uses the same template with its 15 collaborators plus Rodolphe. Participant lists are provisional until confirmations are supplied.
+The ECC home combines logistics and 22 linked portraits: 21 alumni plus Rodolphe, arranged in five columns on desktop. The grid adapts to smaller screens. The CDC home uses the same template with its 16 collaborators plus Rodolphe. Participant lists are provisional until confirmations are supplied.
 
 ## Programme
 
 ECC runs 09:00–19:00 with twenty-two 20-minute contributions (15-minute talk and 5-minute questions), a 60-minute panel discussion, two 20-minute coffee breaks and one 60-minute lunch. The alumni are ordered by documented joining year; same-year cohorts use alphabetical surname order. Rodolphe closes. Franci uses 2012 and Miranda-Villatoro 2018 from their personal biographies; the conflicting roster dates are disclosed in the programme notes.
 
-CDC runs 09:00–19:40 with sixteen 30-minute contributions (25-minute talk and 5-minute questions), a 60-minute panel discussion, two 20-minute coffee breaks and one 60-minute lunch. Its four sessions contain four talks each. ECC uses sessions of five, six, five and six talks. Both panels take place before Rodolphe’s closing contribution; panelists and moderators are not yet assigned. Its collaborator order remains provisional and is not presented as an alumni chronology.
+CDC runs 09:00–20:10 with seventeen 30-minute contributions (25-minute talk and 5-minute questions), a 60-minute panel discussion, two 20-minute coffee breaks and one 60-minute lunch. Its four sessions contain four, four, four and five talks respectively. ECC uses sessions of five, six, five and six talks. Both panels take place before Rodolphe’s closing contribution; panelists and moderators are not yet assigned. Its collaborator order remains provisional and is not presented as an alumni chronology.
 
 ## Genealogy
 
