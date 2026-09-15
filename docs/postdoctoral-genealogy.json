@@ -1322,34 +1322,15 @@
       "201288",
       "298616"
     ],
-    "optional_control_branch_ids": [
-      "102192",
-      "180219"
-    ],
+    "optional_control_branch_ids": ["102192", "180219"],
     "clusters": [
       {
         "id": "physics-chemistry",
         "title": "Physics and chemistry",
         "recent_anchor": "118323",
         "older_anchor": "76485",
-        "intermediate_ids": [
-          "61599",
-          "124194",
-          "124283",
-          "123978",
-          "123999",
-          "123979"
-        ],
-        "path_ids": [
-          "118323",
-          "61599",
-          "124194",
-          "124283",
-          "123978",
-          "123999",
-          "123979",
-          "76485"
-        ],
+        "intermediate_ids": ["61599", "124194", "124283", "123978", "123999", "123979"],
+        "path_ids": ["118323", "61599", "124194", "124283", "123978", "123999", "123979", "76485"],
         "default_collapsed": true,
         "collapsed_edge_label": "6 intermediate scholars · expand",
         "contains_historical_links": false,
@@ -1360,22 +1341,8 @@
         "title": "Medicine at Tübingen and Basel",
         "recent_anchor": "76483",
         "older_anchor": "125148",
-        "intermediate_ids": [
-          "76482",
-          "76481",
-          "123974",
-          "182088",
-          "125048"
-        ],
-        "path_ids": [
-          "76483",
-          "76482",
-          "76481",
-          "123974",
-          "182088",
-          "125048",
-          "125148"
-        ],
+        "intermediate_ids": ["76482", "76481", "123974", "182088", "125048"],
+        "path_ids": ["76483", "76482", "76481", "123974", "182088", "125048", "125148"],
         "default_collapsed": true,
         "collapsed_edge_label": "5 intermediate scholars · expand",
         "contains_historical_links": false,
@@ -1386,16 +1353,8 @@
         "title": "Renaissance medicine",
         "recent_anchor": "125148",
         "older_anchor": "127166",
-        "intermediate_ids": [
-          "152906",
-          "152904"
-        ],
-        "path_ids": [
-          "125148",
-          "152906",
-          "152904",
-          "127166"
-        ],
+        "intermediate_ids": ["152906", "152904"],
+        "path_ids": ["125148", "152906", "152904", "127166"],
         "default_collapsed": true,
         "collapsed_edge_label": "2 intermediate scholars · expand",
         "contains_historical_links": false,
@@ -1440,14 +1399,7 @@
         "title": "Persian scholarship · historical attributions",
         "recent_anchor": "201288",
         "older_anchor": "298616",
-        "intermediate_ids": [
-          "204293",
-          "217509",
-          "223724",
-          "287466",
-          "295739",
-          "287468"
-        ],
+        "intermediate_ids": ["204293", "217509", "223724", "287466", "295739", "287468"],
         "path_ids": [
           "201288",
           "204293",

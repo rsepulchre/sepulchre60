@@ -10,13 +10,13 @@ Open `dist/index.html` locally, or copy the contents of `dist/` to any static we
 
 The site has five main buttons: Home, ECC, CDC, Festschrift and Liber amicorum. Each workshop has three buttons: Home, Academic tree and Programme.
 
-The ECC home combines logistics and 20 linked portraits: 19 alumni plus Rodolphe, arranged in five columns and four rows on desktop. The grid adapts to smaller screens. The CDC home uses the same template with its 13 collaborators plus Rodolphe. Participant lists are provisional until confirmations are supplied.
+The ECC home combines logistics and 22 linked portraits: 21 alumni plus Rodolphe, arranged in five columns on desktop. The grid adapts to smaller screens. The CDC home uses the same template with its 15 collaborators plus Rodolphe. Participant lists are provisional until confirmations are supplied.
 
 ## Programme
 
-ECC runs 09:00–17:20 with twenty 20-minute contributions (15-minute talk and 5-minute questions), two 20-minute coffee breaks and one 60-minute lunch. The alumni are ordered by documented joining year; same-year cohorts use alphabetical surname order. Rodolphe closes. Franci uses 2012 and Miranda-Villatoro 2018 from their personal biographies; the conflicting roster dates are disclosed in the programme notes.
+ECC runs 09:00–19:00 with twenty-two 20-minute contributions (15-minute talk and 5-minute questions), a 60-minute panel discussion, two 20-minute coffee breaks and one 60-minute lunch. The alumni are ordered by documented joining year; same-year cohorts use alphabetical surname order. Rodolphe closes. Franci uses 2012 and Miranda-Villatoro 2018 from their personal biographies; the conflicting roster dates are disclosed in the programme notes.
 
-CDC runs 09:00–17:40 with fourteen 30-minute contributions (25-minute talk and 5-minute questions), two 20-minute coffee breaks and one 60-minute lunch. Its four sessions contain three, four, three and four talks respectively. ECC uses four balanced sessions of five talks. Its collaborator order remains provisional and is not presented as an alumni chronology.
+CDC runs 09:00–19:40 with sixteen 30-minute contributions (25-minute talk and 5-minute questions), a 60-minute panel discussion, two 20-minute coffee breaks and one 60-minute lunch. Its four sessions contain four talks each. ECC uses sessions of five, six, five and six talks. Both panels take place before Rodolphe’s closing contribution; panelists and moderators are not yet assigned. Its collaborator order remains provisional and is not presented as an alumni chronology.
 
 ## Genealogy
 
@@ -30,15 +30,25 @@ Festschrift provides an editorial introduction, background bibliography and manu
 
 ## Edit and regenerate
 
-`content/workshops.json` contains event facts, profiles and schedules. `content/genealogy.json` contains the displayed trees and source notes. `content/memories.json` contains archive photographs. `content/research.json` supplies the background bibliography. Edit these and run `node scripts/render.mjs`. Node is an optional authoring dependency only. Every generated HTML page can also be edited directly, though regeneration overwrites such edits. `dist/assets/style.css` controls the design.
+`content/workshops.json` contains event facts, profiles and schedules. `content/genealogy.json` contains the displayed trees and source notes. `content/memories.json` contains archive photographs. `content/research.json` supplies the background bibliography. Run `npm install` once to install the authoring tools, then edit these files and run `npm run build` (or `node scripts/render.mjs`). Node and Prettier are authoring dependencies only; the published site remains plain static HTML and CSS. Every generated HTML page can also be edited directly, though regeneration overwrites such edits. `dist/assets/style.css` controls the design.
 
 `content/organizers.json` supplies the shared organizer section at the end of both workshop homepages: Fulvio Forni, Brayan Shali and Guanchun Tong. Guanchun’s original supplied photograph and Brayan’s official KU Leuven portrait are stored locally, with provenance recorded in this file and on Sources & credits. LinkedIn blocked retrieval of Brayan’s photo, so his official academic portrait is used alongside his LinkedIn profile link.
 
-For schedule entries use `time`, `kind` (`talk` or `break`), `person` (profile slug), `title`, and optional `breakType` (`coffee` or `lunch`). Speaker profiles include `joinYear` and `joinRole` for chronology. New portrait assets should have real public or supplied provenance and accompanying credits.
+For schedule entries use `time`, `kind` (`talk`, `panel` or `break`), `person` (profile slug), `title`, and optional `breakType` (`coffee` or `lunch`). Speaker profiles include `joinYear` and `joinRole` for chronology. New portrait assets should have real public or supplied provenance and accompanying credits.
+
+## Readable source formatting
+
+HTML, CSS, JavaScript, JSON and SVG use readable line breaks and two-space indentation. Python uses four-space indentation. The generator writes formatted HTML, including legacy forwarding pages; it does not minify its output.
+
+- Run `npm run format` after manual edits to apply the shared Prettier settings.
+- Run `npm run format:check` to check formatting without changing files.
+- Run `npm run build` to regenerate the pages from the content and templates.
+
+`.prettierrc.json` defines formatting, and `.editorconfig` supplies consistent indentation and line endings for editors. HTML formatting preserves whitespace around inline content. Keep reusable page changes in `scripts/render.mjs` and event information in `content/`; edit `dist/` directly for one-off changes that do not need to survive regeneration.
 
 ## Banner
 
-The recurring banner is a simulated classical Hodgkin–Huxley action potential on five musical staff lines. `dist/assets/hh-model.json` records equations, units, parameters, stimulus, numerical checks and primary sources; `hh-trace.csv` contains the data. `scripts/generate_hh_staff.py` preserves the computation. It is a simulated illustration, not experimental data. On the homepage, the spike peak is anchored to the centre of “60” as the title size changes; the renderer reuses the simulated waveform and extends only its resting baseline for clipping. The homepage pairs Rodolphe’s portrait with his verified line “Music is rhythmic. So is life.”, linked to *Clocks and Rhythms* (2022). An original generated ICE/FIRE brush circle sits to the right of the workshop list on desktop, with separate ice-blue and fire-orange brushstrokes. Original public portrait and archive photos are preserved without bitmap editing.
+The recurring banner is a simulated classical Hodgkin–Huxley action potential on five musical staff lines. `dist/assets/hh-model.json` records equations, units, parameters, stimulus, numerical checks and primary sources; `hh-trace.csv` contains the data. `scripts/generate_hh_staff.py` preserves the computation. It is a simulated illustration, not experimental data. On the homepage, the spike peak is anchored to the centre of “60” as the title size changes; the renderer reuses the simulated waveform and extends only its resting baseline for clipping. The homepage pairs Rodolphe’s portrait with his verified line “Music is rhythmic. So is life.”, linked to _Clocks and Rhythms_ (2022). An original generated ICE/FIRE brush circle sits to the right of the workshop list on desktop, with separate ice-blue and fire-orange brushstrokes. Original public portrait and archive photos are preserved without bitmap editing.
 
 ## Planning facts
 

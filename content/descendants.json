@@ -49,50 +49,32 @@
     {
       "name": "Tihol Donchev",
       "slug": "tihol-donchev",
-      "categories": [
-        "former-phd",
-        "former-postdoc"
-      ]
+      "categories": ["former-phd", "former-postdoc"]
     },
     {
       "name": "Tom Chaffey",
       "slug": "tom-chaffey",
-      "categories": [
-        "former-phd",
-        "former-postdoc"
-      ]
+      "categories": ["former-phd", "former-postdoc"]
     },
     {
       "name": "Luka Ribar",
       "slug": "luka-ribar",
-      "categories": [
-        "former-phd",
-        "former-postdoc"
-      ]
+      "categories": ["former-phd", "former-postdoc"]
     },
     {
       "name": "Thiago Burghi",
       "slug": "thiago-burghi",
-      "categories": [
-        "former-phd",
-        "former-postdoc"
-      ]
+      "categories": ["former-phd", "former-postdoc"]
     },
     {
       "name": "Cyrus Mostajeran",
       "slug": "cyrus-mostajeran",
-      "categories": [
-        "former-phd",
-        "former-postdoc"
-      ]
+      "categories": ["former-phd", "former-postdoc"]
     },
     {
       "name": "Bamdev Mishra",
       "slug": "bamdev-mishra",
-      "categories": [
-        "former-phd",
-        "former-postdoc"
-      ]
+      "categories": ["former-phd", "former-postdoc"]
     }
   ],
   "people": [

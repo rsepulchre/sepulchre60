@@ -56,10 +56,7 @@
     "max_step_ms": 0.025,
     "integration": "Three segments ending exactly at stimulus discontinuities",
     "output_interval_ms": 0.005,
-    "time_range_ms": [
-      0,
-      100.0
-    ],
+    "time_range_ms": [0, 100.0],
     "output_rows": 20001
   },
   "validation": {
@@ -72,21 +69,12 @@
     "width_at_half_height_above_rest_px": 14.420139775167408,
     "width_above_rest_plus_5_mV_px": 40.028442778423724,
     "gating_variables_within_0_1": true,
-    "max_voltage_difference_mV_when_max_step_halved": 2.524181752505683e-08
+    "max_voltage_difference_mV_when_max_step_halved": 2.524181752505683e-8
   },
   "rendering": {
-    "size_px": [
-      1000,
-      86
-    ],
+    "size_px": [1000, 86],
     "background": "transparent",
-    "staff_lines_y_px": [
-      24,
-      34,
-      44,
-      54,
-      64
-    ],
+    "staff_lines_y_px": [24, 34, 44, 54, 64],
     "staff_color": "#d9dfe5",
     "trace_color": "#253e59",
     "staff_stroke_px": 0.7,
@@ -106,10 +94,7 @@
         "0.52 px per mV vertical scale",
         "five staff positions and colors"
       ],
-      "trace_stroke_change_px": [
-        1.75,
-        1.5
-      ]
+      "trace_stroke_change_px": [1.75, 1.5]
     },
     "path_simplification": "Ramer-Douglas-Peucker, maximum geometric error 0.02 SVG pixels before 0.001 pixel coordinate rounding",
     "path_vertices": 85
